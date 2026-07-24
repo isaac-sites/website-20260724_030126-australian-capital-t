@@ -351,8 +351,7 @@ It is also worth remembering that "secret military aircraft" is not a single exp
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93-Illustration-3-dark.svg" | relative_url }}" alt="Sabre Theory illustration 3" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case remains unresolved
-
+## What keeps Sabre Theory unresolved
 The Sabre explanation illustrates the difference between a plausible hypothesis and a demonstrated solution.
 
 It succeeds in showing that advanced Australian jet technology existed in 1954 and that unfamiliar military aircraft should always be considered when evaluating aviation UFO reports. That makes it an important sceptical interpretation within [New South Wales]({{ 'which-new-south-wales-ufo-cases-still/' | relative_url }})' UFO history.

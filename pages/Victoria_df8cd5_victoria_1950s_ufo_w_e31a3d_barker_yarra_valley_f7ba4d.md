@@ -344,8 +344,7 @@ These missing measurements make it impossible to calculate whether an ordinary a
 
 <img src="{{ "/assets/images/Victoria_df8cd5_victoria_1950s_ufo_w_e31a3d_barker_yarra_valley_f7ba4d-Illustration-2-dark.svg" | relative_url }}" alt="Barker Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Victoria_df8cd5_victoria_1950s_ufo_w_e31a3d_barker_yarra_valley_f7ba4d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Victoria_df8cd5_victoria_1950s_ufo_w_e31a3d_barker_yarra_valley_f7ba4d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Case Remains Unresolved
-
+## The evidence gaps around Barker Sighting
 The Barker sighting illustrates the difference between an intriguing witness report and a well-documented investigation.
 
 Several factors strengthen the case:

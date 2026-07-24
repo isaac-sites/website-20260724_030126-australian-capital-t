@@ -28,12 +28,12 @@ hero_summary: Queensland has one of Australia’s richest state-level UFO histor
 layout: default
 permalink: /what-really-happened-in-queenslands-ufo/
 nav_short_title: What Really Happened in Queensland's UFO Cases?
-title: What Really Happened in Queensland's UFO Cases?
+title: "Inside the UFO Record of Queensland"
 title_full: What Really Happened in Queensland's UFO Cases?
 display_title_short: What Really Happened in Queensland's UFO Cases?
-display_title: What Really Happened in Queensland's UFO Cases?
+display_title: "Inside the UFO Record of Queensland"
 heading_title: What Really Happened in Queensland's UFO Cases?
-page_heading_title: What Really Happened in Queensland's UFO Cases?
+page_heading_title: "Inside the UFO Record of Queensland"
 source_count: 87
 infographic_count: 3
 page_website_name: Queensland

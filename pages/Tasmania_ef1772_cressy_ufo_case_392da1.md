@@ -417,8 +417,7 @@ Later reporting therefore strengthened the historical documentation but not the 
 
 <img src="{{ "/assets/images/Tasmania_ef1772_cressy_ufo_case_392da1-Illustration-3-dark.svg" | relative_url }}" alt="Cressy illustration 3" data-theme-src-dark="{{ "/assets/images/Tasmania_ef1772_cressy_ufo_case_392da1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tasmania_ef1772_cressy_ufo_case_392da1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case remains unresolved
-
+## What keeps Cressy unresolved
 Cressy occupies an unusual middle category in Tasmania’s UFO history. It is better supported than a late, second-hand story because it has named witnesses, prompt reporting, an official inquiry and a later recorded interview. Yet it falls well short of cases with instrumental data, physical traces or multiple independent viewing positions.
 
 The evidence supports several conclusions with differing levels of confidence:

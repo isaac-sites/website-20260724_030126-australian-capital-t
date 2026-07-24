@@ -28,12 +28,12 @@ hero_summary: Tasmania has a surprisingly well-documented UFO history, but it do
 layout: default
 permalink: /what-really-happened-in-tasmanias-ufo/
 nav_short_title: What Really Happened in Tasmania's UFO Cases?
-title: What Really Happened in Tasmania's UFO Cases?
+title: "Sightings, Files and False Alarms in Tasmania"
 title_full: What Really Happened in Tasmania's UFO Cases?
 display_title_short: What Really Happened in Tasmania's UFO Cases?
-display_title: What Really Happened in Tasmania's UFO Cases?
+display_title: "Sightings, Files and False Alarms in Tasmania"
 heading_title: What Really Happened in Tasmania's UFO Cases?
-page_heading_title: What Really Happened in Tasmania's UFO Cases?
+page_heading_title: "Sightings, Files and False Alarms in Tasmania"
 source_count: 138
 infographic_count: 3
 page_website_name: Tasmania UFO Files

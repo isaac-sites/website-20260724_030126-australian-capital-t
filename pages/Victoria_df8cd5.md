@@ -28,12 +28,12 @@ hero_summary: 'Victoria occupies a central place in Australian UFO history becau
 layout: default
 permalink: /what-really-happened-in-victorias-ufo/
 nav_short_title: What Really Happened in Victoria's UFO History?
-title: What Really Happened in Victoria's UFO History?
+title: "Sightings, Files and False Alarms in Victoria"
 title_full: What Really Happened in Victoria's UFO History?
 display_title_short: What Really Happened in Victoria's UFO History?
-display_title: What Really Happened in Victoria's UFO History?
+display_title: "Sightings, Files and False Alarms in Victoria"
 heading_title: What Really Happened in Victoria's UFO History?
-page_heading_title: What Really Happened in Victoria's UFO History?
+page_heading_title: "Sightings, Files and False Alarms in Victoria"
 source_count: 65
 infographic_count: 3
 page_website_name: Victoria

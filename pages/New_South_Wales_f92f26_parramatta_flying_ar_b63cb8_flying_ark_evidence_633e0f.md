@@ -383,8 +383,7 @@ As a result, recent archival work has generally strengthened confidence in the h
 
 <img src="{{ "/assets/images/New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f-Illustration-3-dark.svg" | relative_url }}" alt="Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Overall assessment
-
+## What the evidence supports about Evidence
 Within [New South Wales]({{ 'which-new-south-wales-ufo-cases-still/' | relative_url }}) UFO history, Parramatta's Flying Ark remains significant because it is an unusually early account involving an apparent flying machine and because it was written by a respected nineteenth-century engineer. It demonstrates that imaginative descriptions of advanced aerial craft appeared long before the modern UFO era.
 
 As evidence for a physical unexplained object, however, the case remains limited. The surviving account is retrospective, framed as a vision, lacks independent witnesses, has no contemporary documentation of a landing, and is embedded within Birmingham's wider pattern of spiritual experiences. For those reasons, most cautious historical assessments treat it as an important document in the cultural history of unusual aerial experiences rather than strong evidence that an unidentified craft actually landed in Parramatta in 1868.
