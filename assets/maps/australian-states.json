@@ -1,0 +1,353 @@
+{
+  "kind": "australian-states",
+  "mapLayout": "australia",
+  "mapFit": "linked-bounds",
+  "itemType": "state",
+  "mapAsset": "australia.svg",
+  "dataAsset": "australian-states.json",
+  "mapLabel": "UFO and UAP Australian states and territories map",
+  "fallbackSummary": "Open this state or territory file from the map.",
+  "panelCopy": "Use the map to jump into an Australian state or territory file, or browse the full list below.",
+  "initialItemId": "AU-WA",
+  "items": [
+    {
+      "id": "AU-ACT",
+      "iso": "AU-ACT",
+      "code": "ACT",
+      "basename": "Australian_Capital_T_2949ba",
+      "state": "Australian Capital Territory",
+      "mapName": "Australian Capital Territory",
+      "label": "Australian Capital Territory",
+      "mapAliases": [
+        "australian capital territory",
+        "canberra",
+        "au-act",
+        "a c t",
+        "act"
+      ],
+      "title": "What Really Happened in Canberra's UFO Skies?",
+      "summary": "The Australian Capital Territory has one standout UFO case rather than a long list of nationally famous incidents: the daylight sighting near Canberra...",
+      "url": "australian-capital-territory/",
+      "image": "assets/images/Australian_Capital_T_2949ba-overview.webp",
+      "pageCount": 25,
+      "region": "Eastern Australia"
+    },
+    {
+      "id": "AU-QLD",
+      "iso": "AU-QLD",
+      "code": "QLD",
+      "basename": "Queensland_95a7a7",
+      "state": "Queensland",
+      "mapName": "Queensland",
+      "label": "Queensland",
+      "mapAliases": [
+        "queensland",
+        "au-qld",
+        "qld"
+      ],
+      "title": "What Really Happened in Queensland's UFO Cases?",
+      "summary": "Queensland has one of Australia’s richest state-level UFO histories, but its importance rests less on proof of extraordinary craft than on the quality and...",
+      "url": "what-really-happened-in-queenslands-ufo/",
+      "image": "assets/images/Queensland_95a7a7-photo1.webp",
+      "pageCount": 25,
+      "region": "Eastern Australia"
+    },
+    {
+      "id": "AU-TAS",
+      "iso": "AU-TAS",
+      "code": "TAS",
+      "basename": "Tasmania_ef1772",
+      "state": "Tasmania",
+      "mapName": "Tasmania",
+      "label": "Tasmania",
+      "mapAliases": [
+        "tasmania",
+        "au-tas",
+        "tas"
+      ],
+      "title": "What Really Happened in Tasmania's UFO Cases?",
+      "summary": "Tasmania has a surprisingly well-documented UFO history, but it does not amount to proof of extraterrestrial visitation.",
+      "url": "what-really-happened-in-tasmanias-ufo/",
+      "image": "assets/images/Tasmania_ef1772-photo1.webp",
+      "pageCount": 25,
+      "region": "Island State"
+    },
+    {
+      "id": "AU-VIC",
+      "iso": "AU-VIC",
+      "code": "VIC",
+      "basename": "Victoria_df8cd5",
+      "state": "Victoria",
+      "mapName": "Victoria",
+      "label": "Victoria",
+      "mapAliases": [
+        "victoria",
+        "au-vic",
+        "vic"
+      ],
+      "title": "What Really Happened in Victoria's UFO History?",
+      "summary": "Victoria occupies a central place in Australian UFO history because it contains two of the country’s most enduring cases: the daylight mass sighting at...",
+      "url": "what-really-happened-in-victorias-ufo/",
+      "image": "assets/images/Victoria_df8cd5-overview.webp",
+      "pageCount": 25,
+      "region": "Eastern Australia"
+    },
+    {
+      "id": "AU-WA",
+      "iso": "AU-WA",
+      "code": "WA",
+      "basename": "Western_Australia_1c735d",
+      "state": "Western Australia",
+      "mapName": "Western Australia",
+      "label": "Western Australia",
+      "mapAliases": [
+        "western australia",
+        "au-wa",
+        "w a",
+        "wa"
+      ],
+      "title": "What Really Happened in Western Australia's Skies?",
+      "summary": "Western Australia has a long record of unusual aerial reports, but its UFO history is better understood as an archive of human observation than as evidence...",
+      "url": "what-really-happened-in-western/",
+      "image": "assets/images/Western_Australia_1c735d-overview.webp",
+      "pageCount": 25,
+      "region": "Western Australia"
+    },
+    {
+      "id": "AU-NSW",
+      "iso": "AU-NSW",
+      "code": "NSW",
+      "basename": "New_South_Wales_f92f26",
+      "state": "New South Wales",
+      "mapName": "New South Wales",
+      "label": "New South Wales",
+      "mapAliases": [
+        "new south wales",
+        "au-nsw",
+        "n s w",
+        "nsw"
+      ],
+      "title": "Which New South Wales UFO Cases Still Matter?",
+      "summary": "New South Wales has one of Australia’s longest and most varied UFO histories, but not a single case that proves extraterrestrial visitation.",
+      "url": "which-new-south-wales-ufo-cases-still/",
+      "image": "assets/images/New_South_Wales_f92f26-overview.webp",
+      "pageCount": 25,
+      "region": "Eastern Australia"
+    },
+    {
+      "id": "AU-NT",
+      "iso": "AU-NT",
+      "code": "NT",
+      "basename": "Northern_Territory_205118",
+      "state": "Northern Territory",
+      "mapName": "Northern Territory",
+      "label": "Northern Territory",
+      "mapAliases": [
+        "northern territory",
+        "au-nt",
+        "n t",
+        "nt"
+      ],
+      "title": "Why Is the Northern Territory a UFO Hotspot?",
+      "summary": "The Northern Territory has one of Australia’s strongest UFO reputations, but not one of its strongest bodies of UFO evidence.",
+      "url": "why-is-the-northern-territory-a-ufo/",
+      "image": "assets/images/Northern_Territory_205118-photo1.webp",
+      "pageCount": 25,
+      "region": "Central Australia"
+    },
+    {
+      "id": "AU-SA",
+      "iso": "AU-SA",
+      "code": "SA",
+      "basename": "South_Australia_717e9f",
+      "state": "South Australia",
+      "mapName": "South Australia",
+      "label": "South Australia",
+      "mapAliases": [
+        "south australia",
+        "au-sa",
+        "s a",
+        "sa"
+      ],
+      "title": "Why South Australia's UFO Cases Still Matter",
+      "summary": "South Australia has one of Australia’s richest UFO histories, not because it offers proof of extraterrestrial visitors, but because unusual reports...",
+      "url": "why-south-australias-ufo-cases-still/",
+      "image": "assets/images/South_Australia_717e9f-photo1.webp",
+      "pageCount": 25,
+      "region": "Central Australia"
+    }
+  ],
+  "states": [
+    {
+      "id": "AU-ACT",
+      "iso": "AU-ACT",
+      "code": "ACT",
+      "basename": "Australian_Capital_T_2949ba",
+      "state": "Australian Capital Territory",
+      "mapName": "Australian Capital Territory",
+      "label": "Australian Capital Territory",
+      "mapAliases": [
+        "australian capital territory",
+        "canberra",
+        "au-act",
+        "a c t",
+        "act"
+      ],
+      "title": "What Really Happened in Canberra's UFO Skies?",
+      "summary": "The Australian Capital Territory has one standout UFO case rather than a long list of nationally famous incidents: the daylight sighting near Canberra...",
+      "url": "australian-capital-territory/",
+      "image": "assets/images/Australian_Capital_T_2949ba-overview.webp",
+      "pageCount": 25,
+      "region": "Eastern Australia"
+    },
+    {
+      "id": "AU-QLD",
+      "iso": "AU-QLD",
+      "code": "QLD",
+      "basename": "Queensland_95a7a7",
+      "state": "Queensland",
+      "mapName": "Queensland",
+      "label": "Queensland",
+      "mapAliases": [
+        "queensland",
+        "au-qld",
+        "qld"
+      ],
+      "title": "What Really Happened in Queensland's UFO Cases?",
+      "summary": "Queensland has one of Australia’s richest state-level UFO histories, but its importance rests less on proof of extraordinary craft than on the quality and...",
+      "url": "what-really-happened-in-queenslands-ufo/",
+      "image": "assets/images/Queensland_95a7a7-photo1.webp",
+      "pageCount": 25,
+      "region": "Eastern Australia"
+    },
+    {
+      "id": "AU-TAS",
+      "iso": "AU-TAS",
+      "code": "TAS",
+      "basename": "Tasmania_ef1772",
+      "state": "Tasmania",
+      "mapName": "Tasmania",
+      "label": "Tasmania",
+      "mapAliases": [
+        "tasmania",
+        "au-tas",
+        "tas"
+      ],
+      "title": "What Really Happened in Tasmania's UFO Cases?",
+      "summary": "Tasmania has a surprisingly well-documented UFO history, but it does not amount to proof of extraterrestrial visitation.",
+      "url": "what-really-happened-in-tasmanias-ufo/",
+      "image": "assets/images/Tasmania_ef1772-photo1.webp",
+      "pageCount": 25,
+      "region": "Island State"
+    },
+    {
+      "id": "AU-VIC",
+      "iso": "AU-VIC",
+      "code": "VIC",
+      "basename": "Victoria_df8cd5",
+      "state": "Victoria",
+      "mapName": "Victoria",
+      "label": "Victoria",
+      "mapAliases": [
+        "victoria",
+        "au-vic",
+        "vic"
+      ],
+      "title": "What Really Happened in Victoria's UFO History?",
+      "summary": "Victoria occupies a central place in Australian UFO history because it contains two of the country’s most enduring cases: the daylight mass sighting at...",
+      "url": "what-really-happened-in-victorias-ufo/",
+      "image": "assets/images/Victoria_df8cd5-overview.webp",
+      "pageCount": 25,
+      "region": "Eastern Australia"
+    },
+    {
+      "id": "AU-WA",
+      "iso": "AU-WA",
+      "code": "WA",
+      "basename": "Western_Australia_1c735d",
+      "state": "Western Australia",
+      "mapName": "Western Australia",
+      "label": "Western Australia",
+      "mapAliases": [
+        "western australia",
+        "au-wa",
+        "w a",
+        "wa"
+      ],
+      "title": "What Really Happened in Western Australia's Skies?",
+      "summary": "Western Australia has a long record of unusual aerial reports, but its UFO history is better understood as an archive of human observation than as evidence...",
+      "url": "what-really-happened-in-western/",
+      "image": "assets/images/Western_Australia_1c735d-overview.webp",
+      "pageCount": 25,
+      "region": "Western Australia"
+    },
+    {
+      "id": "AU-NSW",
+      "iso": "AU-NSW",
+      "code": "NSW",
+      "basename": "New_South_Wales_f92f26",
+      "state": "New South Wales",
+      "mapName": "New South Wales",
+      "label": "New South Wales",
+      "mapAliases": [
+        "new south wales",
+        "au-nsw",
+        "n s w",
+        "nsw"
+      ],
+      "title": "Which New South Wales UFO Cases Still Matter?",
+      "summary": "New South Wales has one of Australia’s longest and most varied UFO histories, but not a single case that proves extraterrestrial visitation.",
+      "url": "which-new-south-wales-ufo-cases-still/",
+      "image": "assets/images/New_South_Wales_f92f26-overview.webp",
+      "pageCount": 25,
+      "region": "Eastern Australia"
+    },
+    {
+      "id": "AU-NT",
+      "iso": "AU-NT",
+      "code": "NT",
+      "basename": "Northern_Territory_205118",
+      "state": "Northern Territory",
+      "mapName": "Northern Territory",
+      "label": "Northern Territory",
+      "mapAliases": [
+        "northern territory",
+        "au-nt",
+        "n t",
+        "nt"
+      ],
+      "title": "Why Is the Northern Territory a UFO Hotspot?",
+      "summary": "The Northern Territory has one of Australia’s strongest UFO reputations, but not one of its strongest bodies of UFO evidence.",
+      "url": "why-is-the-northern-territory-a-ufo/",
+      "image": "assets/images/Northern_Territory_205118-photo1.webp",
+      "pageCount": 25,
+      "region": "Central Australia"
+    },
+    {
+      "id": "AU-SA",
+      "iso": "AU-SA",
+      "code": "SA",
+      "basename": "South_Australia_717e9f",
+      "state": "South Australia",
+      "mapName": "South Australia",
+      "label": "South Australia",
+      "mapAliases": [
+        "south australia",
+        "au-sa",
+        "s a",
+        "sa"
+      ],
+      "title": "Why South Australia's UFO Cases Still Matter",
+      "summary": "South Australia has one of Australia’s richest UFO histories, not because it offers proof of extraterrestrial visitors, but because unusual reports...",
+      "url": "why-south-australias-ufo-cases-still/",
+      "image": "assets/images/South_Australia_717e9f-photo1.webp",
+      "pageCount": 25,
+      "region": "Central Australia"
+    }
+  ],
+  "matchedCount": 8,
+  "totalTopTopics": 8,
+  "source": "Generated from Stage 3 Australian collection pages; CC0 base SVG from MapSVG.",
+  "sourceUrl": "https://mapsvg.com/maps/australia",
+  "license": "CC0 1.0 Universal"
+}

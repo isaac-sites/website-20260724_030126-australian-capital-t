@@ -1,0 +1,4811 @@
+{
+  "generated_at_utc": "2026-07-24T01:56:10.955783Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 200,
+    "pages_review_recommended": 2,
+    "warning_reason_counts": {
+      "single_reader_role": 2
+    }
+  },
+  "pages": [
+    {
+      "basename": "Northern_Territory_205118_nt_ufo_archives_63d9f3_nt_unresolved_ufo_fi_22382c",
+      "title": "Does Unresolved Mean Truly Unexplainable in the Territory?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Missing Data in Northern Territory Archives",
+        "Unresolved vs. Unexplained Phenomena",
+        "Conventional Explanations in Territory Files"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.125,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Western_Australia_1c735d_knowles_nullarbor_ca_ece73c_knowles_corroboratin_ca3f71",
+      "title": "Did Other Witnesses Confirm the Knowles UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Graham Henley's Independent Observations",
+        "Corroboration Limits of Nullarbor Sightings",
+        "Required Evidence for Knowles Case"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba",
+      "title": "What Really Happened in Canberra's UFO Skies?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in Canberra UFO Records",
+        "1965 Canberra Airport Explanations",
+        "Canberra's Role in UFO History"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_1950_venus_986cb1",
+      "title": "How a Canberra Flying Saucer Became Venus",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The 1950 Canberra Sighting Time line",
+        "Interpretations of the Canberra Light",
+        "Factors Influencing Pilot Misidentification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_1950_venus_986cb1_canberra_reports_sta_4a1b74",
+      "title": "Why the Canberra Saucer Story Stayed Contested",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "structure_taxonomy",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Conflicting 1950 Canberra Press Narratives",
+        "Missing Records in Canberra UFO Case",
+        "Mount Stromlo Astronomical Objections"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_1950_venus_986cb1_two_airline_crews_ve_9a0c99",
+      "title": "What Two Airline Crews Learned From Venus",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "venn",
+        "cards_grid"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Canberra vs. South Australia Sighting",
+        "Canberra Sighting Interpretation Layers",
+        "Factors Influencing Sighting Accuracy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_1950_venus_986cb1_venus_seemed_to_foll_c21a09",
+      "title": "Why Venus Seemed to Chase the Canberra DC 3",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Perceptual Mechanics of the Canberra DC 3 Sighting",
+        "Interpretation of the Moving Light",
+        "Atmospheric Factors in the Canberra Sighting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+      "title": "Was Canberra's Famous Airport UFO Really Venus?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "list_vertical",
+        "grid_stats"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Canberra Airport Sighting Explanations",
+        "Evidence Gaps in Canberra Records",
+        "1965 Canberra Sighting Metrics"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_airport_wit_fc96f1",
+      "title": "How Reliable Were the Canberra Airport Witnesses?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Canberra Airport Sighting Time line",
+        "Interpretations of the 1965 Sighting",
+        "Evidence Limitations in Canberra Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_daylight_ve_40be48",
+      "title": "Was the Canberra UFO Really Daylight Venus?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "venn",
+        "cards_grid"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Canberra Airport Sighting Interpretations",
+        "Venus Characteristics in July 1965",
+        "Deceptive Traits of Daylight Venus"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_raaf_balloon_conclus_40362c",
+      "title": "Why the RAAF Favoured a Weather Balloon",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "RAAF Investigation of Canberra Sighting",
+        "Canberra Sighting Explanatory Models",
+        "RAAF Investigation Findings Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_ufo_archive_ee5e6a",
+      "title": "Why Australia's UFO Files Ended Up in Canberra",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Canberra's UFO Archive Lifecycle",
+        "Interpreting Surviving National Files",
+        "Contents of the National Archive"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_ufo_archive_ee5e6a_canberra_ufo_archive_268445",
+      "title": "How Much of Australia's UFO Record Is Missing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Australian UFO Record Lifecycle",
+        "Interpreting Missing Canberra Files",
+        "Mechanisms of Archival Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_ufo_archive_ee5e6a_chalker_defence_file_c33d0c",
+      "title": "What Bill Chalker Found Inside Defence's UFO Files",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Russell Offices UFO File Categories",
+        "Interpretations of 1982 Access",
+        "Chalker's 1982 Inspection Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_ufo_archive_ee5e6a_raaf_ufo_investigati_11a831",
+      "title": "Why the RAAF Closed Its UFO Reporting System",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "RAAF UFO Investigation Lifecycle",
+        "Interpretations of the 1994 Policy Shift",
+        "RAAF Assessment of Aerial Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_ufo_hotspot_6c0fdd",
+      "title": "Was Canberra Ever Truly a UFO Hotspot?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Canberra Airport Sighting Chronology",
+        "Canberra Sighting Explanations",
+        "Canberra's Institutional Multipliers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_ufo_hotspot_6c0fdd_canberra_1975_blue_g_779ffe",
+      "title": "What Did Canberra Witness in 1975?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the 1975 Canberra Sighting",
+        "Evidence Gaps in the 1975 Report",
+        "Factors Defining the Canberra Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_ufo_hotspot_6c0fdd_canberra_twelve_repo_4b92b0",
+      "title": "Do Twelve Reports Make Canberra a Hotspot?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "list_vertical",
+        "myth_facts"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Canberra UFO Hotspot Claims",
+        "Canberra Region Reporting Scope",
+        "Evidence Quality of Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_ufo_hotspot_6c0fdd_canberra_ufo_hotspot_3a4a72",
+      "title": "Why Canberra Looked Like a UFO Hotspot",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Canberra's UFO Documentation Pipeline",
+        "Canberra's UFO Hotspot Dynamics",
+        "Canberra's Reporting Ecosystem Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_witness_rel_00cf1a",
+      "title": "How Reliable Were Canberra's Aviation Witnesses?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Interpretations of the 1965 Canberra Sighting",
+        "Aviation Expertise in UFO Reporting",
+        "Evidence Limits of the Canberra Sighting"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_witness_rel_00cf1a_canberra_airport_wit_81f1ee",
+      "title": "How Reliable Were the Canberra Airport Accounts?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Canberra Airport Sighting Key Stages",
+        "Canberra Airport Sighting Interpretations",
+        "Evidence Gaps in Canberra Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_witness_rel_00cf1a_canberra_venus_ballo_6cc867",
+      "title": "Was Canberra's 1965 Light Venus or a Balloon?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Canberra Airport Sighting Explanations",
+        "Evidence for Daylight Venus",
+        "Meteorological Balloon Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_canberra_witness_rel_00cf1a_pilot_visual_percept_d95717",
+      "title": "Why Skilled Pilots Can Misread Bright Lights",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Apparent Motion Illusions",
+        "Pilot Testimony vs. Visual Limits",
+        "Factors Creating Apparent Hovering"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_raaf_canberra_ufo_in_bf7bbf",
+      "title": "How the RAAF Investigated Canberra UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "RAAF Investigation of Canberra Airport Sighting",
+        "RAAF Explanations for the 1965 Sighting",
+        "Institutional Roles in Canberra UFO Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_raaf_canberra_ufo_in_bf7bbf_canberra_ufo_archive_09a4c1",
+      "title": "Why Australia's UFO Records Converged on Canberra",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Australian UFO Record Lifecycle",
+        "Archive Geography vs Sighting Geography",
+        "Commonwealth Agency Involvement Roles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_raaf_canberra_ufo_in_bf7bbf_canberra_ufo_securit_3e2de7",
+      "title": "Why Canberra UFO Reports Became Security Questions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "RAAF Investigation Workflow for Canberra Sightings",
+        "RAAF Identification vs. Security Risk",
+        "Conventional Explanations for Canberra Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Australian_Capital_T_2949ba_raaf_canberra_ufo_in_bf7bbf_raaf_reconstructing_6666f2",
+      "title": "How Did the RAAF Investigate an Object Already Gone?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "RAAF Canberra Sighting Investigation Steps",
+        "Plausible Explanations for Canberra Sighting",
+        "Missing Data in Canberra Investigation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26",
+      "title": "Which New South Wales UFO Cases Still Matter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "New South Wales UFO History Time line",
+        "Evaluating the Sea Fury Incident",
+        "Modern NSW Aerial Explanations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+      "title": "Who Preserved New South Wales's UFO Stories?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of NSW UFO Record keeping",
+        "Interpretations of NSW UFO Records",
+        "Components of a Strong Civilian File"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_chalker_defence_file_c43729",
+      "title": "What Did the Defence Files Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bill Chalker's Canberra Archive Access",
+        "Interpretations of Canberra UFO Records",
+        "Content of the Defence UFO Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+      "title": "Did Reporting Turn Gosford Into a Hotspot?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Gosford Archive Feedback Loop",
+        "Archive Capabilities vs Limitations",
+        "Mechanisms of Increased Reporting"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_sydney_ufo_club_arch_55985b",
+      "title": "How Sydney's UFO Clubs Shaped the Record",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sydney UFO Archive Evolution Time line",
+        "Civilian vs Official Record Differences",
+        "Data Types in Sydney UFO Newsletters"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+      "title": "What Happened Over Gosford in 1995?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Gosford Wave",
+        "Interpretations of the Gosford Sightings",
+        "Evidence Gaps in the Gosford Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_gosford_central_coas_7344bf_brisbane_water_night_b719e6",
+      "title": "Did One Object Cross Brisbane Water?",
+      "infographic_count": 1,
+      "templates": [
+        "process_steps"
+      ],
+      "roles": [
+        "process"
+      ],
+      "titles": [
+        "Brisbane Water Sighting Key Stages"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_mixed_cause_c286d1",
+      "title": "Could Several Ordinary Events Create the Gosford Wave?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "quadrant",
+        "logic_equation"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Conventional Explanations for Gosford Sightings",
+        "Gosford Wave Interpretation Models",
+        "Factors Influencing Gosford Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+      "title": "Do the Police Calls Prove the Gosford Case?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gosford Police Call Key Stages",
+        "Police Call Evidence Analysis",
+        "Missing Police Documentation Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+      "title": "Why Did Grafton Become a UFO Hotspot?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "The 1966 Grafton Wave Development",
+        "Interpretations of Grafton Reports",
+        "Evidence Levels in Grafton Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+      "title": "How Publicity Turned Grafton Into a UFO Hotspot",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "The Grafton UFO Wave Feedback Loop",
+        "Interpreting Grafton Wave Evidence",
+        "Channels of Grafton Report Spread"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+      "title": "What Do We Really Know About Grafton's Police Chase?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Grafton 1966 Sighting Wave Progression",
+        "Verified vs. Unverified Grafton Details",
+        "Factors Defining the Grafton Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+      "title": "Why More Eyes on the Sky Meant More Mistakes",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "structure_taxonomy",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Grafton 1966 UFO Feedback Loop",
+        "Common Misidentifications in Grafton",
+        "Psychological Perception Factors in Grafton"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+      "title": "Why Do UFO Reports Cluster Near NSW Airfields?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "structure_taxonomy",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Sea Fury vs. Williamtown Cases",
+        "Common NSW Aerial Misidentifications",
+        "Evaluating NSW Aviation UFO Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+      "title": "Why UFO Reports Cluster Around NSW Airfields",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_petal"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aviation Reporting Evidence Chain",
+        "Radar Interpretation Challenges in NSW",
+        "Coastal Visual Distortion Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+      "title": "Could Sabre Jets Explain the Sea Fury Encounter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "CAC Sabre Integration Time line 1953 1955",
+        "Sabre Theory Evidence Analysis",
+        "Nowra Encounter Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+      "title": "Why Williamtown's UFO Alert Was Not an Aircraft",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The 1983 Williamtown Radar Investigation",
+        "Radar Interpretation vs. Physical Reality",
+        "Mechanisms of Running Rabbits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+      "title": "Was Parramatta's Flying Ark Really a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Time line of Birmingham's Aerial Vision",
+        "Interpretations of the Parramatta Ark",
+        "Evidence Quality of the Birmingham Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_ark_religious_meanin_43f7f1",
+      "title": "Why Did Birmingham Call It an Ark?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Birmingham's 1868 Parramatta Vision Key Stages",
+        "Dual Meanings of the Ark",
+        "Elements of the Parramatta Vision"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+      "title": "How Strong Is Parramatta's Flying Ark Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Key Stages in the Parramatta Flying Ark",
+        "Interpretations of Birmingham's Manuscripts",
+        "Missing Evidence in Parramatta Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_victorian_flight_con_8d8ad4",
+      "title": "What Inspired Parramatta's Flying Ark Vision?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Sydney Flight Culture",
+        "Birmingham Vision vs. Modern UFOs",
+        "Influences on the Parramatta Vision"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+      "title": "What Did the Sea Fury Pilot Encounter?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Sea Fury Encounter Key Stages 1954",
+        "Potential Explanations for Sea Fury Lights",
+        "Evidence Gaps in Sea Fury Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_sea_fury_nowra_be2085_night_light_speed_il_358668",
+      "title": "Could Night Vision Have Exaggerated the Objects' Speed?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Sea Fury 1954 Encounter Time line",
+        "Night Vision Speed Perception Factors",
+        "Sea Fury Evidence Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_sea_fury_nowra_be2085_nowra_radar_match_22a25f",
+      "title": "Did Nowra Radar Really Confirm the Two Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Sea Fury Radar Tracking Key Stages",
+        "Nowra Radar Evidence Interpretations",
+        "Key Features of the Nowra Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_South_Wales_f92f26_sea_fury_nowra_be2085_sea_fury_story_drift_c66d64",
+      "title": "How Did the Sea Fury Account Grow More Dramatic?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sea Fury Encounter Key Stages 1954",
+        "Original Records vs. Later Narratives",
+        "Sea Fury Evidence Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118",
+      "title": "Why Is the Northern Territory a UFO Hotspot?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Wycliffe Well UFO Fame",
+        "Interpretations of Outback Aerial Lights",
+        "Categories of Territory UFO Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_min_min_lights_ecea73",
+      "title": "Why Do Outback Lights Seem to Follow Cars?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Atmospheric Refraction of Min Min Lights",
+        "Interpretations of Outback Light Sightings",
+        "Factors Influencing Min Min Illusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_min_min_lights_ecea73_min_min_following_ca_8d728f",
+      "title": "Why Does a Min Min Light Follow Your Car?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Optical Mechanics of Min Min Lights",
+        "Interpreting Northern Territory UFO Reports",
+        "Road Curve Maneuver Illusions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_min_min_lights_ecea73_min_min_ufo_misident_8efbe9",
+      "title": "When Is a Min Min Light Mistaken for a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mirage Indicators in Northern Territory",
+        "Optical Mirage vs. UFO Evidence",
+        "Factors Influencing Outback Interpretations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_min_min_lights_ecea73_pettigrew_min_min_te_47f60e",
+      "title": "Did Headlights Recreate a Min Min Light?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "cards_grid",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Pettigrew's Fata Morgana Field Experiment",
+        "Min Min Light Interpretations",
+        "Evidence of Atmospheric Refraction"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_nt_regional_ufo_case_bb300a",
+      "title": "Which Northern Territory UFO Cases Still Matter?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Northern Territory UFO Reporting Pipeline",
+        "Arnhem Land Sighting Interpretations",
+        "Northern Territory Case Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_nt_regional_ufo_case_bb300a_milingimbi_1995_enco_edacab",
+      "title": "What Happened Near Milingimbi in 1995?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Milingimbi Encounter Time line 1995",
+        "Milingimbi vs. Earlier Arnhem Land Report",
+        "Missing Data for Milingimbi Verification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_nt_regional_ufo_case_bb300a_palmerston_2000_oran_171759",
+      "title": "Why Palmerston's Orange Lights Were So Hard to Identify",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "tree_roots",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "July 2000 Palmerston Light Sources",
+        "Perceptual Factors in Palmerston Sightings",
+        "Palmerston Report Observation Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_nt_regional_ufo_case_bb300a_palmerston_solved_uf_d2c182",
+      "title": "Was Palmerston's UFO Mystery Really Solved?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Palmerston UFO News Cycle",
+        "Missing Evidence Limitations",
+        "Palmerston Record Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+      "title": "What Do the Territory's UFO Files Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Northern Territory UFO Archive Evolution",
+        "RAAF Investigation vs. Public Record",
+        "Northern Territory Archive Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_nt_ufo_archives_63d9f3_arnhem_land_ufo_repo_1570ed",
+      "title": "What Did Seven Arnhem Land Witnesses Really Report?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "1983 Arnhem Land Reporting Key Stages",
+        "Evidence Limits of the 1983 Record",
+        "RAAF Reporting System Functions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_nt_ufo_archives_63d9f3_raaf_darwin_ufo_repo_c80856",
+      "title": "Why Did Darwin's RAAF Record UFO Sightings?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "RAAF Darwin Aerial Sighting Workflow",
+        "RAAF Operational vs. Paranormal Interests",
+        "Northern Territory Archival Sources"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8",
+      "title": "Does Pine Gap Explain the UFO Rumours?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Pine Gap Intelligence Operations Flow",
+        "Pine Gap: Evidence vs. Speculation",
+        "Common Explanations for Desert Lights"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8_pine_gap_buried_ufo_597639",
+      "title": "Is a Giant UFO Buried Under Pine Gap?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Pine Gap UFO Claim",
+        "Pine Gap: Fact vs. Speculation",
+        "Missing Evidence for Pine Gap Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8_pine_gap_public_reco_2f5421",
+      "title": "What Does Pine Gap Actually Do?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "earth_core"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Official Pine Gap Functions",
+        "Pine Gap Speculation vs. Record",
+        "Factors Fueling Pine Gap Myths"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8_pine_gap_secrecy_rum_d9210f",
+      "title": "Why Does Pine Gap Secrecy Fuel UFO Rumours?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "tree_map",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "taxonomy"
+      ],
+      "titles": [
+        "Pine Gap Speculation vs. Evidence",
+        "Visible Features of Pine Gap",
+        "Layers of Pine Gap Secrecy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64",
+      "title": "Why Are Remote Skies So Easy to Misread?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Visual Perception of Remote Lights",
+        "Common UFO Descriptions vs. Physical Causes",
+        "Factors Influencing Northern Territory Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_flat_horizon_light_i_fa38aa",
+      "title": "Why Outback Lights Seem to Break Physics",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Northern Territory Visual Perception Factors",
+        "Witness Experience vs Physical Reality",
+        "Evidence Verification for Northern Territory Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_night_aircraft_ufo_r_c4a534",
+      "title": "When Aircraft Lights Look Like Hovering UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aviation Investigation Workflow for UFO Reports",
+        "Visual Illusions of Head on Aircraft",
+        "Northern Territory Aviation Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_satellite_starlink_u_57a27a",
+      "title": "Why Starlink Trains Keep Becoming UFO Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Starlink Formation Evolution Time line",
+        "Satellite vs. Aircraft Characteristics",
+        "Northern Territory Observation Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+      "title": "Did Wycliffe Well Earn Its UFO Fame?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Wycliffe Well Reputation Formation",
+        "Evidence Quality at Wycliffe Well",
+        "The Wycliffe Well Legend Structure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9_wycliffe_military_uf_fa4f0c",
+      "title": "Did the RAAF Investigate Wycliffe Well UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "comparison_columns",
+        "tree_roots"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Missing Evidence for Wycliffe Well Claims",
+        "Wycliffe Well Legend vs. Official Records",
+        "Factors Sustaining Wycliffe Well Legends"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9_wycliffe_sighting_le_4bcf94",
+      "title": "Can Wycliffe Well's Sighting Ledger Be Trusted?",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Wycliffe Well Sighting Ledger Contents",
+        "Ledger Value: History vs Science",
+        "Factors Inflating Sighting Totals"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9_wycliffe_ufo_tourism_149c0a",
+      "title": "How Tourism Built Wycliffe Well's UFO Legend",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "gem",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Wycliffe Well Tourism Feedback Loop",
+        "Wycliffe Well Roadhouse Attractions",
+        "Reputation vs. Scientific Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7",
+      "title": "What Really Happened in Queensland's UFO Cases?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Queensland UFO Records",
+        "Interpretations of the Tully Reed Pattern",
+        "Factors Shaping Queensland UFO History"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_north_queensland_196_96ccb7",
+      "title": "Why the 1961 Sightings Still Matter",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "June 1961 North Queensland Sightings Time line",
+        "Millaa Millaa Daytime Object Explanations",
+        "Evidence Quality in 1961 Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_north_queensland_196_96ccb7_millaa_balloon_expla_2c455a",
+      "title": "Was Millaa Millaa Really a Stratospheric Balloon?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Balloon Characteristics in Millaa Millaa",
+        "Balloon vs. Venus Explanations",
+        "1961 Millaa Millaa Investigation Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_north_queensland_196_96ccb7_mount_garnet_witness_bbaf13",
+      "title": "How Strong Were the Mount Garnet Sightings?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mount Garnet Sighting Time line 1961",
+        "Mount Garnet Physical Evidence Analysis",
+        "Witness Description of Mount Garnet Object"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_north_queensland_196_96ccb7_raaf_search_limits_64147f",
+      "title": "What Did the RAAF Search Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "RAAF Response to Millaa Millaa Sighting",
+        "Search Findings vs. Witness Claims",
+        "Evidence from the Winjeel Mission"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_official_ufo_investi_485edc",
+      "title": "How Queensland's UFO Reports Were Investigated",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Queensland UFO Reporting Workflow",
+        "Evidence Limits in Queensland Files",
+        "Queensland Sighting Case Studies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_official_ufo_investi_485edc_official_ufo_sightin_34ac8d",
+      "title": "How Officials Tested a UFO Report",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Queensland UFO Investigation Workflow",
+        "Structured Forms vs Open Accounts",
+        "Limitations of Visual Observation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_official_ufo_investi_485edc_queensland_police_uf_eee046",
+      "title": "What Do Queensland's Police UFO Files Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Queensland Police UFO Investigation Workflow",
+        "Queensland Police File Evidence Limits",
+        "Contents of Queensland Police UFO Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_official_ufo_investi_485edc_springsure_fireball_aa190f",
+      "title": "Why the Springsure UFO Looked Like a Meteor",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Queensland Fireball Investigation Time line",
+        "Springsure Fireball Interpretations",
+        "Evidence for Meteor Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_queensland_sighting_5c9cbf",
+      "title": "Why Queensland's Skies Can Look Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Queensland Atmospheric Optical Phenomena",
+        "Identifying Queensland Sky Anomalies",
+        "Human Factors in Night Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_queensland_sighting_5c9cbf_queensland_aircraft_7eca0d",
+      "title": "When Queensland Aircraft Stop Looking Like Aircraft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aircraft Landing Light Illusion Key Stages",
+        "Visual Interpretation of Aerial Sightings",
+        "Queensland Airport Investigation Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_queensland_sighting_5c9cbf_queensland_horizon_l_043697",
+      "title": "Why Queensland Horizon Lights Can Seem to Hover",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "list_vertical",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Temperature Inversions",
+        "Queensland Coastal Optical Distortions",
+        "Verifying Coastal UFO Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_queensland_sighting_5c9cbf_starlink_queensland_57b693",
+      "title": "Why Satellite Trains Look Like Giant Craft",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Starlink Satellite Train Lifecycle",
+        "Mackay and Airlie Beach Sightings",
+        "Starlink Identification Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_tully_crop_circle_le_e0f87c",
+      "title": "How Tully Helped Create the Crop Circle Myth",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Tully Saucer Nest",
+        "Interpretations of the Horseshoe Lagoon Site",
+        "Cultural Layers of the Tully Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_tully_crop_circle_le_e0f87c_crop_circle_confessi_3c70fa",
+      "title": "What the Crop Circle Confession Did Not Solve",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bower and Chorley's Creation Process",
+        "Tully vs. British Crop Circles",
+        "Impact of the 1991 Confession"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_tully_crop_circle_le_e0f87c_saucer_nest_media_la_771faa",
+      "title": "How One Phrase Turned Reeds Into UFO Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Evolution of the Tully Saucer Nest",
+        "Natural Explanations for the Tully Formation",
+        "Impact of the Saucer Nest Label"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_tully_crop_circle_le_e0f87c_tully_british_crop_c_b8f9fb",
+      "title": "How Tully Helped Inspire Britain's Crop Circles",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Tully Saucer Nest Legacy",
+        "Tully Nest vs. English Crop Circles",
+        "Factors Driving Crop Circle Evolution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_tully_saucer_nest_89923a",
+      "title": "Did a Flying Saucer Land at Tully?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Time line of the Tully Saucer Nest",
+        "Interpretations of the Horseshoe Lagoon Nest",
+        "Physical Evidence at the Tully Site"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_tully_saucer_nest_89923a_pedley_account_limit_19f9f6",
+      "title": "How Reliable Was George Pedley's Tully Sighting?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "George Pedley's 1966 Reporting Key Stages",
+        "Tully Saucer Nest Evidence Gaps",
+        "Pedley's Consistent Sighting Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_tully_saucer_nest_89923a_tully_reed_physical_71c3b8",
+      "title": "What Did the Tully Reed Nest Actually Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Tully Reed Nest Investigation Time line",
+        "Tully Reed Nest Evidence Analysis",
+        "Physical Characteristics of the Reed Nest"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_tully_saucer_nest_89923a_tully_waterspout_exp_b3052c",
+      "title": "Could Weather Have Made the Tully Saucer Nest?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Vortex Formation at Horseshoe Lagoon",
+        "Tully Nest Interpretations and Evidence",
+        "RAAF Investigation Observations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_ufo_groups_archives_30cfb8",
+      "title": "Who Preserved Queensland's UFO Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Queensland UFO Periodical Evolution",
+        "Tully Case Interpretations Comparison",
+        "Queensland Government Record Pathways"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_ufo_groups_archives_30cfb8_queensland_ufo_group_3470ea",
+      "title": "Why Queensland's UFO Groups Kept Reappearing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of UFO Research Queensland",
+        "Organizational Identity Shifts in Queensland",
+        "UFORQ Institutional Records and Assets"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_ufo_groups_archives_30cfb8_queensland_ufo_newsl_ef71f4",
+      "title": "What Queensland's UFO Newsletters Still Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Queensland UFO Periodical Chronology",
+        "Official Records vs. Civilian Newsletters",
+        "Newsletter Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Queensland_95a7a7_ufo_groups_archives_30cfb8_stan_seers_tully_inv_ec4410",
+      "title": "Did Stan Seers Strengthen the Tully Case?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Tully Saucer Nest Investigation Steps",
+        "Tully Case Interpretation Conflict",
+        "Bureau Investigation Methodology"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f",
+      "title": "Why South Australia's UFO Cases Still Matter",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "South Australian UFO Landmark Time line",
+        "Interpretations of the Maralinga Light",
+        "Factors Shaping South Australian UFO Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_cold_war_test_ranges_bee36b",
+      "title": "How Cold War Secrecy Shaped UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Woomera and Maralinga Development Time line",
+        "Interpretations of Woomera Radar Contacts",
+        "Categories of South Australian UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_cold_war_test_ranges_bee36b_maralinga_1960_secur_1e74dc",
+      "title": "Why Maralinga Treated a UFO as a Security Threat",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Maralinga Security Investigation Workflow",
+        "Wewak Site Security Concerns",
+        "Maralinga Report Evidence Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_cold_war_test_ranges_bee36b_woomera_radar_anomal_9f0375",
+      "title": "Could Weather Have Created Woomera's UFO Returns?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanics of Anomalous Propagation",
+        "Woomera Radar Evidence Analysis",
+        "Woomera Desert Environmental Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_cold_war_test_ranges_bee36b_woomera_radar_sighti_f090bf",
+      "title": "How Strong Were Woomera's Radar UFO Cases?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Woomera Investigation Methodology",
+        "Missing Woomera Technical Records",
+        "Woomera Witness Credibility Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_kimba_witness_encoun_630ff7",
+      "title": "Why the Kimba Witnesses Still Intrigue Investigators",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kimba Sighting Investigation Time line",
+        "Kimba Sighting Interpretations",
+        "Kimba Observation Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_kimba_witness_encoun_630ff7_kimba_night_percepti_e7bd84",
+      "title": "Could a Two Second Glimpse Create Kimba's Figure?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kimba Witness Perception Key Stages",
+        "Kimba Sighting Interpretation Models",
+        "Factors Limiting Nighttime Recognition"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_kimba_witness_encoun_630ff7_kimba_witness_accoun_815c93",
+      "title": "Did Kimba's Independent Witnesses Really Agree?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Kimba Roadside Encounter Shared Traits",
+        "Divergent Witness Descriptions in Kimba",
+        "Evidence Weight in Kimba Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_kimba_witness_encoun_630ff7_kimba_witness_invest_55290b",
+      "title": "Was the Kimba Witness Evidence Properly Preserved?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kimba 1973 Police Investigation Time line",
+        "Witness Testimony Variations in Kimba",
+        "Risks to Witness Credibility in Kimba"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_maralinga_light_inqu_4ad7c5",
+      "title": "What Did Officials See Near Maralinga?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Maralinga Weapons Site Inquiry Key Stages",
+        "Competing Explanations for Maralinga Light",
+        "Witness Accounts at Maralinga Village"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_maralinga_light_inqu_4ad7c5_maralinga_natural_ex_ab031f",
+      "title": "Was Maralinga's Light Natural After All?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "structure_taxonomy",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Maralinga Light: Natural Explanations",
+        "Missing Evidence at Maralinga",
+        "Maralinga Investigation Constraints"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_maralinga_light_inqu_4ad7c5_maralinga_official_i_5ef408",
+      "title": "How Thorough Was the Maralinga UFO Inquiry?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Maralinga Security Investigation Workflow",
+        "Rejected Explanations for Wewak Lights",
+        "Limitations of the Maralinga Inquiry"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_maralinga_light_inqu_4ad7c5_maralinga_witness_ac_2d6813",
+      "title": "What Did the Maralinga Witnesses Really See?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Scarborough's July 15, 1960 Observation",
+        "Witness Discrepancies at Maralinga Village",
+        "Official Investigation Conclusions at Woomera"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_official_ufo_archive_b3e914",
+      "title": "What South Australia's UFO Files Really Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Woomera UFO Record Processing Path",
+        "May 1954 Woomera Radar Analysis",
+        "South Australian Archive Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_official_ufo_archive_b3e914_missing_ufo_file_evi_f81013",
+      "title": "What Did South Australia's Missing UFO Evidence Contain?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Woomera Radar Archive Lifecycle",
+        "Interpretations of Missing Evidence",
+        "Types of Missing Technical Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_official_ufo_archive_b3e914_south_australia_ufo_e0b80e",
+      "title": "Why Did Some South Australian UFO Files Survive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Archival Preservation of Woomera Records",
+        "Preservation Drivers vs. Archive Gaps",
+        "Departmental Record Distribution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_official_ufo_archive_b3e914_woomera_official_rep_185f48",
+      "title": "Why Did Woomera Sightings Trigger Official Scrutiny?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Woomera Security Reporting Workflow",
+        "Woomera Archive Interpretation Models",
+        "Woomera Range Security Priorities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_outback_light_explan_9f8b97",
+      "title": "Why Outback Lights Can Look Like UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Atmospheric Refraction and Mirage Formation",
+        "Outback Light Source Explanations",
+        "Factors Influencing Visual Illusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_outback_light_explan_9f8b97_lights_chasing_cars_b28d2d",
+      "title": "Why Outback Lights Seem to Chase Cars",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Autokinesis Illusion",
+        "South Australian Outback Sightline Geometry",
+        "Testing Methods for Apparent Pursuit"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_outback_light_explan_9f8b97_meteor_aircraft_plan_8cf110",
+      "title": "Meteor, Aircraft or Planet: Which Best Fits?",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "timeline_horizon",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "other",
+        "chronology",
+        "chronology"
+      ],
+      "titles": [
+        "Distinguishing Night Lights in South Australia",
+        "Verifying South Australian Sighting Records",
+        "Meteor Indicators in the Outback"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_outback_light_explan_9f8b97_refracted_headlights_033306",
+      "title": "Can Headlights Really Hover Above the Horizon?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Atmospheric Light Refraction Process",
+        "Min Min Light Interpretations",
+        "Outback Light Visual Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_woomera_radar_cases_65eb28",
+      "title": "Did Woomera Radar Track Something Extraordinary?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Woomera Radar Visual Incident Time line",
+        "Interpretations of the Woomera Evidence",
+        "Missing Evidence in Woomera Archives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_woomera_radar_cases_65eb28_shell_lagoon_radar_c_8fee46",
+      "title": "What the 1952 Woomera Radar Case Reveals",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "October 1952 Shell Lagoon Time line",
+        "Shell Lagoon vs. May 1954 Woomera",
+        "Atmospheric Explanations for Radar Echoes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_woomera_radar_cases_65eb28_woomera_1954_timing_53d05b",
+      "title": "Were Woomera's Two 1954 Sightings Really Connected?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Woomera 1954 Observation Time line",
+        "Interpretations of Woomera Timing Gap",
+        "Missing Woomera Operational Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "South_Australia_717e9f_woomera_radar_cases_65eb28_woomera_radar_speed_8b6918",
+      "title": "Could Woomera's Radar Really Measure 3,600 mph?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Woomera Radar Speed Calculation",
+        "Woomera Radar Evidence Layers",
+        "Missing Woomera Technical Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772",
+      "title": "What Really Happened in Tasmania's UFO Cases?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of Tasmanian UFO Landmarks",
+        "Interpretations of the Cressy Sighting",
+        "Evidence Quality in Tasmanian UFO Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_cressy_ufo_case_392da1",
+      "title": "Why the Cressy UFO Case Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cressy Sighting Investigation Time line",
+        "Cressy Sighting Interpretations",
+        "Evidence Quality in Cressy Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_cressy_ufo_case_392da1_browning_witness_rel_e86228",
+      "title": "How Strong Was the Brownings' Testimony?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cressy Sighting Witness Time line",
+        "RAAF Witness Credibility Assessment",
+        "Geometric Limits of Cressy Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_cressy_ufo_case_392da1_cressy_airport_radar_8482a4",
+      "title": "What Did Airport and Radar Records Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Browning's Immediate Aviation Inquiry",
+        "Interpreting 'No Known Aircraft'",
+        "Cressy Sighting Evidence Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_cressy_ufo_case_392da1_cressy_weather_expla_88d248",
+      "title": "Could a Rain Squall Create the Cressy UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Scud Cloud Visual Characteristics",
+        "Cressy Sighting Interpretations",
+        "Cressy Sighting Evidence Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_kettering_landing_cl_72373a",
+      "title": "Did Anything Really Land at Kettering?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kettering Landing Investigation Time line",
+        "Kettering Evidence vs. Folklore",
+        "Factors Weakening the Kettering Claim"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_kettering_landing_cl_72373a_kettering_delayed_in_0a6ed4",
+      "title": "What Was Lost Before Kettering Was Investigated?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "timeline_genealogy",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Kettering Landing Site Investigation Time line",
+        "Environmental Degradation of Evidence",
+        "Lost Evidence in Kettering Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_kettering_landing_cl_72373a_kettering_retelling_ba4317",
+      "title": "Did Retellings Exaggerate the Kettering Landing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kettering UFO Investigation Time line",
+        "Kettering Evidence Confidence Levels",
+        "Factors Driving Kettering Folklore"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_kettering_landing_cl_72373a_kettering_witness_re_499b89",
+      "title": "How Reliable Was the Kettering Witness Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Kettering Landing Witness Time line",
+        "Kettering Case Evidence Analysis",
+        "Witness Credibility Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_st_helens_car_stop_304c3a",
+      "title": "Did a UFO Really Stop a Car Near St Helens?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The 1974 St Helens Car Stop Key Stages",
+        "St Helens Case Interpretations",
+        "Evidence Quality of St Helens Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_st_helens_car_stop_304c3a_richards_witness_acc_382e7d",
+      "title": "How Much Can the Richards Testimony Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Richards Family Testimony Time line",
+        "Interpretations of Kathleen's Response",
+        "Evidence Assessment of St Helens"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_st_helens_car_stop_304c3a_st_helens_retelling_68cfcf",
+      "title": "Did Retellings Make St Helens Seem Stronger?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "St Helens Case Information Lineage",
+        "Evidence Limits of St Helens",
+        "Summary Editing Distortions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_st_helens_car_stop_304c3a_toyota_intermit_faul_ba98a2",
+      "title": "Could a Hidden Fault Have Stopped the Toyota?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Toyota Crown Stoppage Key Stages",
+        "Interpretations of the St Helens Case",
+        "Potential Mechanical Failure Modes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_tasmania_1970s_ufo_w_b4f302",
+      "title": "Why Tasmania's UFO Reports Surged in the 1970 s",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Tasmanian UFO Wave Key Stages",
+        "Kettering Trace Evidence Analysis",
+        "TUFOIC Reporting Cluster Types"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_tasmania_1970s_ufo_w_b4f302_kettering_landing_tr_b6a41f",
+      "title": "Was the Kettering Grass Mark a Landing Trace?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kettering Landing Investigation Time line",
+        "Kettering Trace Scientific Analysis",
+        "Kettering Witness Observations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_tasmania_1970s_ufo_w_b4f302_lake_sorell_folklore_91a1fe",
+      "title": "What Really Happened Over Lake Sorell?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "February 1975 Lake Sorell Sighting Key Stages",
+        "Core Case vs. Lake Sorell Folklore",
+        "Factors Complicating Lake Sorell Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_tasmania_1970s_ufo_w_b4f302_legana_vehicle_inter_ad5c1e",
+      "title": "Did the Legana Lights Affect the Family Car?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The 1974 Legana Car Encounter Key Stages",
+        "Evidence Analysis of Vehicle Effects",
+        "Documentation of the Legana Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_tufoic_archive_5acfb1",
+      "title": "How TUFOIC Shaped Tasmania's UFO History",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "TUFOIC Formation and Publication History",
+        "TUFOIC vs. Official Archive Scope",
+        "TUFOIC Archive Data Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_tufoic_archive_5acfb1_maydena_route_recons_068626",
+      "title": "Did the Maydena Reports Trace One Flight Path?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "TUFOIC Maydena Investigation Workflow",
+        "Maydena Witness Consistency vs Variation",
+        "Constraints of the Maydena Reconstruction"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_tufoic_archive_5acfb1_tufoic_publication_r_bcdb3a",
+      "title": "How TUFOIC Kept Tasmania's Sightings From Disappearing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "TUFOIC Publication Evolution Since 1970",
+        "TUFOIC Newsletters vs. Daily Newspapers",
+        "Data Preserved in TUFOIC Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_tufoic_archive_5acfb1_tufoic_unidentified_288c88",
+      "title": "What Did 'Unidentified' Really Mean in TUFOIC Files?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "TUFOIC Investigation Methodology",
+        "Civilian vs Official Data Access",
+        "Factors Influencing Reporting Volume"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_valentich_bass_strai_536e2d",
+      "title": "What Happened to Frederick Valentich Over Bass Strait?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "cards_grid",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Frederick Valentich Flight Time line",
+        "Interpretations of the Valentich Disappearance",
+        "Evidence from the VH DSJ Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_disorienta_03dd78",
+      "title": "Could Disorientation Explain Valentich's Strange Encounter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Valentich Disorientation Flight Key Stages",
+        "Interpretations of Valentich's Reports",
+        "Unresolved Elements of the Mystery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_missing_wr_24ff70",
+      "title": "Why Was Valentich's Aircraft Never Found?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Search Operations for VH DSJ",
+        "Interpretations of the Missing Wreck",
+        "Bass Strait Recovery Challenges"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_radio_tran_445633",
+      "title": "What Does the Valentich Recording Actually Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Valentich Radio Contact Time line",
+        "Interpretations of Staccato Noise",
+        "Evidence Limits in Valentich Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5",
+      "title": "What Really Happened in Victoria's UFO History?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Victorian UFO History",
+        "Theories for the Westall Incident",
+        "Evidence Categories in Victoria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_raaf_ufo_files_victo_65d16e",
+      "title": "Why Did the RAAF Collect UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "rank_podium"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "data"
+      ],
+      "titles": [
+        "RAAF Unusual Aerial Sighting Workflow",
+        "RAAF Classification of Unidentified Sightings",
+        "RAAF 1960 1971 Sighting Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_raaf_ufo_files_victo_65d16e_classified_ufo_files_af4257",
+      "title": "Did Classified UFO Files Hide Alien Proof?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "RAAF Cold War Investigation Workflow",
+        "Interpretation of Classified UFO Files",
+        "Reasons for Military Document Classification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_raaf_ufo_files_victo_65d16e_melbourne_airfield_u_6a7a79",
+      "title": "How Melbourne's Strange Lights Were Checked",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "RAAF Investigation Workflow for Melbourne Sightings",
+        "Melbourne Airspace Variables vs. Investigation Checks",
+        "Criteria for Unresolved RAAF UFO Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_raaf_ufo_files_victo_65d16e_raaf_unidentified_ve_fd54c6",
+      "title": "What Did 'Unidentified' Actually Mean to RAAF?",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "RAAF UFO Investigation Statistics",
+        "RAAF 'Unidentified' Terminology Misconceptions",
+        "RAAF Conventional Explanation Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_valentich_disappeara_d56eab",
+      "title": "Did a UFO Cause Valentich's Disappearance?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Time line of the VH DSJ Disappearance",
+        "Aviation Explanations for VH DSJ Loss",
+        "Evidence and Search Findings for VH DSJ"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_valentich_disappeara_d56eab_valentich_final_tran_802d39",
+      "title": "What Did Valentich's Final Transmission Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Frederick Valentich Final Radio Key Stages",
+        "Interpretations of the Valentich Transcript",
+        "Facts Established by Radio Recording"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_valentich_disappeara_d56eab_valentich_search_wre_f360cb",
+      "title": "Why Was Valentich's Aircraft Never Conclusively Found?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Valentich Mystery",
+        "Aviation Investigation Realities",
+        "Factors Limiting Wreckage Recovery"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_valentich_disappeara_d56eab_valentich_spatial_di_fb5b08",
+      "title": "Could a Graveyard Spiral Explain Valentich's Disappearance?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanics of a Graveyard Spiral",
+        "Valentich Transmission Interpretations",
+        "Factors in Bass Strait Disorientation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_victoria_1950s_ufo_w_e31a3d",
+      "title": "How Victoria's Flying Saucer Craze Began",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of the 1954 Victoria Wave",
+        "Interpretations of the 1954 Aerial Phenomena",
+        "Evidence Types in Victoria's UFO Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_victoria_1950s_ufo_w_e31a3d_barker_yarra_valley_f7ba4d",
+      "title": "What Did Captain Barker See Over the Yarra Valley?",
+      "infographic_count": 3,
+      "templates": [
+        "bio_profile_central",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Captain Doug Barker's 1954 Sighting",
+        "Interpretations of the Yarra Valley Craft",
+        "Evidence Quality of the 1954 Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_victoria_1950s_ufo_w_e31a3d_hamilton_saucer_clus_7400ce",
+      "title": "Were Hamilton's Flying Saucers One Event or Several?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Formation of the Hamilton Cluster",
+        "Interpretations of Hamilton Sightings",
+        "Gray Street Café Account Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_victoria_1950s_ufo_w_e31a3d_victoria_newspaper_s_236f2f",
+      "title": "How the Press Built Victoria's Saucer Craze",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "hex_cluster"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "January 1954 Victoria Saucer Wave",
+        "Media Framing vs. Physical Reality",
+        "Mechanisms of Reporting Contagion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_victorian_ufo_explan_9ea2df",
+      "title": "Unresolved, Mistaken or Explained: How Can We Tell?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Victorian UFO Investigation Workflow",
+        "Westall Incident Interpretations",
+        "Victorian UFO Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_victorian_ufo_explan_9ea2df_ufo_witness_independ_49abff",
+      "title": "Do More Witnesses Always Mean Better Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Victorian UFO Evidence Verification Process",
+        "Contemporary vs Retrospective Records",
+        "Factors Influencing Group Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_victorian_ufo_explan_9ea2df_victorian_ufo_sightl_bddef3",
+      "title": "Can Sightlines Reveal Where a UFO Was?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Reconstructing Victorian UFO Sightlines",
+        "Sightline Analysis Capabilities",
+        "Victorian Landmark Reference Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_victorian_ufo_explan_9ea2df_westall_hibal_balloo_ab6d2e",
+      "title": "Could a Secret Balloon Explain Westall?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "HIBAL Balloon System Components",
+        "Westall UFO Conventional Explanations",
+        "Evidence Gaps in HIBAL Theory"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_victorian_ufo_invest_6ec94e",
+      "title": "Who Preserved Victoria's UFO Case Files?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Victorian UFO Research Society Workflow",
+        "Westall 1966 Sighting Interpretations",
+        "Strengths of Victorian UFO Archives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_victorian_ufo_invest_6ec94e_official_ufo_corresp_cc87e4",
+      "title": "Did Official UFO Letters Overstate Certainty?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "process_steps",
+        "cards_grid"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Layers of Victorian UFO Records",
+        "Victorian Investigator Inquiry Workflow",
+        "Key Findings from Victorian Archives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_victorian_ufo_invest_6ec94e_ufo_reports_to_publi_37bc89",
+      "title": "How UFO Reports Changed Before Publication",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Victorian UFO Report Lifecycle",
+        "Archive vs. Published Content",
+        "Editorial Reduction Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_victorian_ufo_invest_6ec94e_vufors_archive_survi_d06cd0",
+      "title": "How VUFORS Saved Victoria's UFO History",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tree_map",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of the VUFORS Organization",
+        "VUFORS Archive Document Types",
+        "Volunteer vs. Government Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_westall_sighting_evi_eedf5b",
+      "title": "What Did Witnesses Really See at Westall?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Westall School Sighting",
+        "The Grange Landing Hypotheses",
+        "Missing Evidence at Westall School"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_westall_sighting_evi_eedf5b_westall_grange_trace_707331",
+      "title": "Did the Westall Object Leave Ground Traces?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_vertical",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "The Grange Landing Site Theories",
+        "Evolution of Westall Witness Testimony",
+        "Barriers to Verifying The Grange Marks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_westall_sighting_evi_eedf5b_westall_missing_reco_f17959",
+      "title": "What Happened to the Westall Official Records?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Westall 1966 Official Response Time line",
+        "Interpretations of Missing Westall Records",
+        "Missing Westall Documentary Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Victoria_df8cd5_westall_sighting_evi_eedf5b_westall_witness_acco_670dbe",
+      "title": "How Reliable Were the Westall Witness Accounts?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Westall Sighting Witness Time line",
+        "Westall Witness Description Conflicts",
+        "Factors Affecting Westall Reliability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d",
+      "title": "What Really Happened in Western Australia's Skies?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Western Australia UFO History Time line",
+        "Nullarbor Encounter Interpretations",
+        "Common WA Aerial Misidentifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_knowles_nullarbor_ca_ece73c",
+      "title": "Did Something Lift the Knowles Family Car?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Knowles Family Encounter Time line",
+        "Interpretations of the Nullarbor Evidence",
+        "Physical Evidence Analysis of the Ford Telstar"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_knowles_nullarbor_ca_ece73c_knowles_car_physical_3bf60f",
+      "title": "Did the Knowles Car Really Show UFO Damage?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Knowles Vehicle Inspection Time line",
+        "Interpretations of the Burst Tyre",
+        "Nullarbor Vehicle Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_knowles_nullarbor_ca_ece73c_knowles_temperature_864273",
+      "title": "Could Distorted Headlights Explain the Knowles UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Knowles Family Encounter Key Stages",
+        "Nullarbor Mirage vs. UFO Claims",
+        "Nullarbor Mirage Environmental Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_nullarbor_mirage_the_33a81e",
+      "title": "Could a Mirage Explain the Nullarbor UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Atmospheric Mirage Formation Process",
+        "Nullarbor Encounter Interpretations",
+        "Nullarbor Environmental Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_nullarbor_mirage_the_33a81e_eyre_highway_road_il_8f58e9",
+      "title": "How the Eyre Highway Made Headlights Look Airborne",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Eyre Highway Terrain Dynamics",
+        "Nullarbor Light Visual Mechanics",
+        "Nullarbor Perception Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_nullarbor_mirage_the_33a81e_knowles_panic_percep_c94c9a",
+      "title": "Did Panic Transform the Knowles Encounter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The Knowles Family Panic Progression",
+        "Skeptical Interpretations of the Nullarbor Encounter",
+        "Unsupported Claims in the Knowles Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_nullarbor_mirage_the_33a81e_nullarbor_chasing_li_2085f9",
+      "title": "Why Did the Nullarbor Light Seem to Follow?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Optical Illusion of Pursuit on Nullarbor",
+        "Interpretations of the Knowles Encounter",
+        "Factors Reinforcing the Chasing Illusion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_remote_wa_sky_condit_07f729",
+      "title": "Why Are Remote WA Skies So Deceptive?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "masonry"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Visual Perception of Remote Lights",
+        "Natural Explanations for WA Sightings",
+        "Strong Report Evidence Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_remote_wa_sky_condit_07f729_wa_aircraft_ufo_ligh_c9e6a7",
+      "title": "When an Aircraft Can Look Like a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Aircraft Hovering Illusion Key Stages",
+        "Aircraft vs. UFO Sighting Traits",
+        "Western Australia Environmental Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_remote_wa_sky_condit_07f729_wa_autokinesis_light_885866",
+      "title": "Why Stationary Lights Seem to Dart in WA",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Autokinesis Perception",
+        "Autokinesis vs. Genuine Movement",
+        "Western Australia Roadside Conditions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_remote_wa_sky_condit_07f729_wa_horizon_light_mir_a87fec",
+      "title": "Can a Road Light Float Above the Horizon?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Atmospheric Refraction Light Path",
+        "Western Australia Light Source Analysis",
+        "Mirage Identification Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_wa_police_ufo_files_949654",
+      "title": "What Do Western Australia's Police UFO Files Reveal?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "WA Police UFO Reporting Pipeline",
+        "Archive Strengths vs. Limitations",
+        "Recurring Descriptions in WA Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_wa_police_ufo_files_949654_bridgetown_1951_miss_b82135",
+      "title": "Why the Bridgetown UFO Case Stayed Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Bridgetown UFO Investigation Workflow",
+        "Bolton's Visual Observations vs. Official Inquiry",
+        "Gaps in the Bridgetown Archive"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_wa_police_ufo_files_949654_police_witness_credi_c99492",
+      "title": "Did Reliable Witnesses Make the Sightings Reliable?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Western Australian Police Reporting Workflow",
+        "Witness Credibility vs. Observational Accuracy",
+        "Police Indicators of Witness Honesty"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_wa_police_ufo_files_949654_wa_police_raaf_repor_fabe17",
+      "title": "How WA UFO Reports Entered Official Channels",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Western Australian Police Reporting Chain",
+        "RAAF Reporting Objectives vs. Public Perception",
+        "Bridgetown Case Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_wa_ufo_media_effect_9fb82e",
+      "title": "Did Newspaper Coverage Create Bigger UFO Flaps?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "The 1969 Wheatbelt Flap Feedback Loop",
+        "Media Influence on UFO Interpretation",
+        "Newspaper Roles in UFO Waves"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_wa_ufo_media_effect_9fb82e_dalwallinu_official_9c0268",
+      "title": "Did Official Checks Strengthen the Dalwallinu Sighting?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Dalwallinu UFO Reporting Workflow",
+        "Dalwallinu Sighting: Fact vs. Interpretation",
+        "Journalistic Reporting Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_wa_ufo_media_effect_9fb82e_shared_ufo_vocabular_b349e7",
+      "title": "Did Newspaper Language Shape What Witnesses Saw?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Newspaper Feedback Loop Mechanism",
+        "Sincere Observation vs. Cultural Description",
+        "Common Western Australian UFO Vocabulary"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_wa_ufo_media_effect_9fb82e_ufo_headline_compres_3d24a1",
+      "title": "When Did a Strange Light Become a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of a UFO Sighting",
+        "Witness Observation vs. Editorial Interpretation",
+        "Factors Driving Headline Labels"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_wheatbelt_1969_flap_2f0333",
+      "title": "Why Did the Wheatbelt UFO Flap Grow So Fast?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1969 Wheatbelt Flap",
+        "Interpretations of Corrigin Aerial Sightings",
+        "Factors Shaping the Corrigin Hotspot"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_wheatbelt_1969_flap_2f0333_beverley_august_ufo_c1cb37",
+      "title": "Did the Wheatbelt UFO Flap Move to Beverley?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "1969 Wheatbelt Flap Expansion",
+        "Beverley Sighting Evidence Analysis",
+        "Beverley Report Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_wheatbelt_1969_flap_2f0333_corrigin_flight_path_9690f6",
+      "title": "Was Corrigin Really on a UFO Flight Path?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of the Corrigin Flight Path Narrative",
+        "Corrigin Flight Path Evidence Analysis",
+        "Required Data for Flight Path Testing"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Western_Australia_1c735d_wheatbelt_1969_flap_2f0333_corrigin_ufo_publici_b19dc1",
+      "title": "How Corrigin Became a Self Reinforcing UFO Hotspot",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Corrigin Media Feedback Loop",
+        "Corrigin Reporting vs Physical Reality",
+        "Factors Influencing Corrigin Publicity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

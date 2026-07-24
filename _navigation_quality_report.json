@@ -1,0 +1,2507 @@
+{
+  "generated_at_utc": "2026-07-24T01:56:11.340263Z",
+  "summary": {
+    "total_pages_with_permalink": 256,
+    "visible_pages": 200,
+    "hidden_pages": 56,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 863,
+    "inline_internal_target_page_count": 200,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 197,
+    "visible_pages_without_inline_outbound_links": 3,
+    "average_inline_inbound_links_per_visible_page": 4.32,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 200,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_1950_venus_986cb1_venus_seemed_to_foll_c21a09",
+        "title": "Moving Light",
+        "permalink": "/moving-light/"
+      },
+      {
+        "basename": "Western_Australia_1c735d_nullarbor_mirage_the_33a81e_eyre_highway_road_il_8f58e9",
+        "title": "Road Illusions",
+        "permalink": "/road-illusions/"
+      },
+      {
+        "basename": "Western_Australia_1c735d_nullarbor_mirage_the_33a81e_nullarbor_chasing_li_2085f9",
+        "title": "Chasing Light",
+        "permalink": "/chasing-light/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Australian_Capital_T_2949ba",
+        "title": "What Really Happened in Canberra's UFO Skies?",
+        "permalink": "/australian-capital-territory/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_1950_venus_986cb1",
+        "title": "1950 Venus Case",
+        "permalink": "/1950-venus-case/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_1950_venus_986cb1_canberra_reports_sta_4a1b74",
+        "title": "Conflicting Reports",
+        "permalink": "/conflicting-reports/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_1950_venus_986cb1_two_airline_crews_ve_9a0c99",
+        "title": "Crew Comparison",
+        "permalink": "/crew-comparison/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_1950_venus_986cb1_venus_seemed_to_foll_c21a09",
+        "title": "Moving Light",
+        "permalink": "/moving-light/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "title": "Airport Sighting",
+        "permalink": "/airport-sighting/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_airport_wit_fc96f1",
+        "title": "Witnesses",
+        "permalink": "/witnesses/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_daylight_ve_40be48",
+        "title": "Venus Theory",
+        "permalink": "/venus-theory/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_raaf_balloon_conclus_40362c",
+        "title": "RAAF Inquiry",
+        "permalink": "/raaf-inquiry/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_ufo_archive_ee5e6a",
+        "title": "National Archives",
+        "permalink": "/national-archives/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_ufo_archive_ee5e6a_canberra_ufo_archive_268445",
+        "title": "Archive Gaps",
+        "permalink": "/archive-gaps/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_ufo_archive_ee5e6a_chalker_defence_file_c33d0c",
+        "title": "Chalker Access",
+        "permalink": "/chalker-access/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_ufo_archive_ee5e6a_raaf_ufo_investigati_11a831",
+        "title": "RAAF Withdrawal",
+        "permalink": "/raaf-withdrawal/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_ufo_hotspot_6c0fdd",
+        "title": "Hotspot Question",
+        "permalink": "/hotspot-question/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_ufo_hotspot_6c0fdd_canberra_1975_blue_g_779ffe",
+        "title": "1975 Sighting",
+        "permalink": "/1975-sighting/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_ufo_hotspot_6c0fdd_canberra_twelve_repo_4b92b0",
+        "title": "Twelve Reports",
+        "permalink": "/twelve-reports/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_ufo_hotspot_6c0fdd_canberra_ufo_hotspot_3a4a72",
+        "title": "Hotspot Effect",
+        "permalink": "/hotspot-effect-2667e5/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_witness_rel_00cf1a",
+        "title": "Witness Reliability",
+        "permalink": "/witness-reliability/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_witness_rel_00cf1a_canberra_airport_wit_81f1ee",
+        "title": "Witness Accounts",
+        "permalink": "/witness-accounts-52f635/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_witness_rel_00cf1a_canberra_venus_ballo_6cc867",
+        "title": "Venus or Balloon",
+        "permalink": "/venus-or-balloon/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_witness_rel_00cf1a_pilot_visual_percept_d95717",
+        "title": "Visual Limits",
+        "permalink": "/visual-limits/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_raaf_canberra_ufo_in_bf7bbf",
+        "title": "RAAF Inquiries",
+        "permalink": "/raaf-inquiries/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_raaf_canberra_ufo_in_bf7bbf_canberra_ufo_archive_09a4c1",
+        "title": "Canberra Archives",
+        "permalink": "/canberra-archives/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_raaf_canberra_ufo_in_bf7bbf_canberra_ufo_securit_3e2de7",
+        "title": "Security Priority",
+        "permalink": "/security-priority/"
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_raaf_canberra_ufo_in_bf7bbf_raaf_reconstructing_6666f2",
+        "title": "Reconstructing Reports",
+        "permalink": "/reconstructing-reports/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26",
+        "title": "Which New South Wales UFO Cases Still Matter?",
+        "permalink": "/which-new-south-wales-ufo-cases-still/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "title": "UFO Archives",
+        "permalink": "/ufo-archives/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_chalker_defence_file_c43729",
+        "title": "Chalker Files",
+        "permalink": "/chalker-files/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+        "title": "Hotspot Effect",
+        "permalink": "/hotspot-effect/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_sydney_ufo_club_arch_55985b",
+        "title": "Sydney Clubs",
+        "permalink": "/sydney-clubs/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "title": "Gosford",
+        "permalink": "/gosford/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_gosford_central_coas_7344bf_brisbane_water_night_b719e6",
+        "title": "Night Timeline",
+        "permalink": "/night-timeline/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_mixed_cause_c286d1",
+        "title": "Possible Causes",
+        "permalink": "/possible-causes/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+        "title": "Police Calls",
+        "permalink": "/police-calls/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "title": "Grafton Wave",
+        "permalink": "/grafton-wave/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+        "title": "Media Feedback",
+        "permalink": "/media-feedback/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "title": "Police Pursuit",
+        "permalink": "/police-pursuit/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "title": "Skywatching",
+        "permalink": "/skywatching/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "title": "Military Skies",
+        "permalink": "/military-skies/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+        "title": "Airfield Clusters",
+        "permalink": "/airfield-clusters/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+        "title": "Sabre Theory",
+        "permalink": "/sabre-theory/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+        "title": "Williamtown Alert",
+        "permalink": "/williamtown-alert/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "title": "Flying Ark",
+        "permalink": "/flying-ark/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_ark_religious_meanin_43f7f1",
+        "title": "Ark Meaning",
+        "permalink": "/ark-meaning/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "title": "Evidence",
+        "permalink": "/evidence/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_victorian_flight_con_8d8ad4",
+        "title": "Flight Culture",
+        "permalink": "/flight-culture/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "title": "Sea Fury",
+        "permalink": "/sea-fury/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_sea_fury_nowra_be2085_night_light_speed_il_358668",
+        "title": "Speed Illusion",
+        "permalink": "/speed-illusion/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_sea_fury_nowra_be2085_nowra_radar_match_22a25f",
+        "title": "The Radar Evidence From The 31 August 1954 Sea Fury...",
+        "permalink": "/the-radar-evidence-from-the-31-august/"
+      },
+      {
+        "basename": "New_South_Wales_f92f26_sea_fury_nowra_be2085_sea_fury_story_drift_c66d64",
+        "title": "Story Drift",
+        "permalink": "/story-drift/"
+      },
+      {
+        "basename": "Northern_Territory_205118",
+        "title": "Why Is the Northern Territory a UFO Hotspot?",
+        "permalink": "/why-is-the-northern-territory-a-ufo/"
+      },
+      {
+        "basename": "Northern_Territory_205118_min_min_lights_ecea73",
+        "title": "Min Min Lights",
+        "permalink": "/min-min-lights/"
+      },
+      {
+        "basename": "Northern_Territory_205118_min_min_lights_ecea73_min_min_following_ca_8d728f",
+        "title": "Following Lights",
+        "permalink": "/following-lights/"
+      },
+      {
+        "basename": "Northern_Territory_205118_min_min_lights_ecea73_min_min_ufo_misident_8efbe9",
+        "title": "UFO Misidentification",
+        "permalink": "/ufo-misidentification/"
+      },
+      {
+        "basename": "Northern_Territory_205118_min_min_lights_ecea73_pettigrew_min_min_te_47f60e",
+        "title": "Field Experiment",
+        "permalink": "/field-experiment/"
+      },
+      {
+        "basename": "Northern_Territory_205118_nt_regional_ufo_case_bb300a",
+        "title": "Regional Cases",
+        "permalink": "/regional-cases/"
+      },
+      {
+        "basename": "Northern_Territory_205118_nt_regional_ufo_case_bb300a_milingimbi_1995_enco_edacab",
+        "title": "Milingimbi",
+        "permalink": "/milingimbi/"
+      },
+      {
+        "basename": "Northern_Territory_205118_nt_regional_ufo_case_bb300a_palmerston_2000_oran_171759",
+        "title": "Palmerston Lights",
+        "permalink": "/palmerston-lights/"
+      },
+      {
+        "basename": "Northern_Territory_205118_nt_regional_ufo_case_bb300a_palmerston_solved_uf_d2c182",
+        "title": "Solved Headline",
+        "permalink": "/solved-headline/"
+      },
+      {
+        "basename": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+        "title": "UFO Archives",
+        "permalink": "/ufo-archives-5b71c5/"
+      },
+      {
+        "basename": "Northern_Territory_205118_nt_ufo_archives_63d9f3_arnhem_land_ufo_repo_1570ed",
+        "title": "Arnhem Report",
+        "permalink": "/arnhem-report/"
+      },
+      {
+        "basename": "Northern_Territory_205118_nt_ufo_archives_63d9f3_nt_unresolved_ufo_fi_22382c",
+        "title": "Unresolved Files",
+        "permalink": "/unresolved-files/"
+      },
+      {
+        "basename": "Northern_Territory_205118_nt_ufo_archives_63d9f3_raaf_darwin_ufo_repo_c80856",
+        "title": "RAAF Darwin",
+        "permalink": "/raaf-darwin/"
+      },
+      {
+        "basename": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8",
+        "title": "Pine Gap",
+        "permalink": "/pine-gap/"
+      },
+      {
+        "basename": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8_pine_gap_buried_ufo_597639",
+        "title": "Buried Craft",
+        "permalink": "/buried-craft/"
+      },
+      {
+        "basename": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8_pine_gap_public_reco_2f5421",
+        "title": "Public Record",
+        "permalink": "/public-record/"
+      },
+      {
+        "basename": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8_pine_gap_secrecy_rum_d9210f",
+        "title": "Secrecy Effect",
+        "permalink": "/secrecy-effect/"
+      },
+      {
+        "basename": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64",
+        "title": "Remote Skies",
+        "permalink": "/remote-skies/"
+      },
+      {
+        "basename": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_flat_horizon_light_i_fa38aa",
+        "title": "Flat Horizons",
+        "permalink": "/flat-horizons/"
+      },
+      {
+        "basename": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_night_aircraft_ufo_r_c4a534",
+        "title": "Night Aircraft",
+        "permalink": "/night-aircraft/"
+      },
+      {
+        "basename": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_satellite_starlink_u_57a27a",
+        "title": "Satellites",
+        "permalink": "/satellites/"
+      },
+      {
+        "basename": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "title": "Wycliffe Well",
+        "permalink": "/wycliffe-well/"
+      },
+      {
+        "basename": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9_wycliffe_military_uf_fa4f0c",
+        "title": "Military Claims",
+        "permalink": "/military-claims/"
+      },
+      {
+        "basename": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9_wycliffe_sighting_le_4bcf94",
+        "title": "Sighting Ledger",
+        "permalink": "/sighting-ledger/"
+      },
+      {
+        "basename": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9_wycliffe_ufo_tourism_149c0a",
+        "title": "Tourism Loop",
+        "permalink": "/tourism-loop/"
+      },
+      {
+        "basename": "Queensland_95a7a7",
+        "title": "What Really Happened in Queensland's UFO Cases?",
+        "permalink": "/what-really-happened-in-queenslands-ufo/"
+      },
+      {
+        "basename": "Queensland_95a7a7_north_queensland_196_96ccb7",
+        "title": "1961 Reports",
+        "permalink": "/1961-reports/"
+      },
+      {
+        "basename": "Queensland_95a7a7_north_queensland_196_96ccb7_millaa_balloon_expla_2c455a",
+        "title": "Balloon Theory",
+        "permalink": "/balloon-theory/"
+      },
+      {
+        "basename": "Queensland_95a7a7_north_queensland_196_96ccb7_mount_garnet_witness_bbaf13",
+        "title": "Mount Garnet",
+        "permalink": "/mount-garnet/"
+      },
+      {
+        "basename": "Queensland_95a7a7_north_queensland_196_96ccb7_raaf_search_limits_64147f",
+        "title": "RAAF Search",
+        "permalink": "/raaf-search/"
+      },
+      {
+        "basename": "Queensland_95a7a7_official_ufo_investi_485edc",
+        "title": "Official Files",
+        "permalink": "/official-files/"
+      },
+      {
+        "basename": "Queensland_95a7a7_official_ufo_investi_485edc_official_ufo_sightin_34ac8d",
+        "title": "Sighting Forms",
+        "permalink": "/sighting-forms/"
+      },
+      {
+        "basename": "Queensland_95a7a7_official_ufo_investi_485edc_queensland_police_uf_eee046",
+        "title": "Police Files",
+        "permalink": "/police-files/"
+      },
+      {
+        "basename": "Queensland_95a7a7_official_ufo_investi_485edc_springsure_fireball_aa190f",
+        "title": "Springsure Fireball",
+        "permalink": "/springsure-fireball/"
+      },
+      {
+        "basename": "Queensland_95a7a7_queensland_sighting_5c9cbf",
+        "title": "Sky Explanations",
+        "permalink": "/sky-explanations/"
+      },
+      {
+        "basename": "Queensland_95a7a7_queensland_sighting_5c9cbf_queensland_aircraft_7eca0d",
+        "title": "Aircraft Lights",
+        "permalink": "/aircraft-lights/"
+      },
+      {
+        "basename": "Queensland_95a7a7_queensland_sighting_5c9cbf_queensland_horizon_l_043697",
+        "title": "Coastal Mirages",
+        "permalink": "/coastal-mirages/"
+      },
+      {
+        "basename": "Queensland_95a7a7_queensland_sighting_5c9cbf_starlink_queensland_57b693",
+        "title": "Starlink Trains",
+        "permalink": "/starlink-trains/"
+      },
+      {
+        "basename": "Queensland_95a7a7_tully_crop_circle_le_e0f87c",
+        "title": "Cultural Legacy",
+        "permalink": "/cultural-legacy/"
+      },
+      {
+        "basename": "Queensland_95a7a7_tully_crop_circle_le_e0f87c_crop_circle_confessi_3c70fa",
+        "title": "1991 Confession",
+        "permalink": "/1991-confession/"
+      },
+      {
+        "basename": "Queensland_95a7a7_tully_crop_circle_le_e0f87c_saucer_nest_media_la_771faa",
+        "title": "Saucer Nest",
+        "permalink": "/saucer-nest/"
+      },
+      {
+        "basename": "Queensland_95a7a7_tully_crop_circle_le_e0f87c_tully_british_crop_c_b8f9fb",
+        "title": "British Hoaxes",
+        "permalink": "/british-hoaxes/"
+      },
+      {
+        "basename": "Queensland_95a7a7_tully_saucer_nest_89923a",
+        "title": "Tully Nest",
+        "permalink": "/tully-nest/"
+      },
+      {
+        "basename": "Queensland_95a7a7_tully_saucer_nest_89923a_pedley_account_limit_19f9f6",
+        "title": "Pedley s Account",
+        "permalink": "/pedley-s-account/"
+      },
+      {
+        "basename": "Queensland_95a7a7_tully_saucer_nest_89923a_tully_reed_physical_71c3b8",
+        "title": "Reed Evidence",
+        "permalink": "/reed-evidence/"
+      },
+      {
+        "basename": "Queensland_95a7a7_tully_saucer_nest_89923a_tully_waterspout_exp_b3052c",
+        "title": "Waterspout Theory",
+        "permalink": "/waterspout-theory/"
+      },
+      {
+        "basename": "Queensland_95a7a7_ufo_groups_archives_30cfb8",
+        "title": "Groups and Archives",
+        "permalink": "/groups-and-archives/"
+      },
+      {
+        "basename": "Queensland_95a7a7_ufo_groups_archives_30cfb8_queensland_ufo_group_3470ea",
+        "title": "Group Evolution",
+        "permalink": "/group-evolution/"
+      },
+      {
+        "basename": "Queensland_95a7a7_ufo_groups_archives_30cfb8_queensland_ufo_newsl_ef71f4",
+        "title": "UFO Newsletters",
+        "permalink": "/ufo-newsletters/"
+      },
+      {
+        "basename": "Queensland_95a7a7_ufo_groups_archives_30cfb8_stan_seers_tully_inv_ec4410",
+        "title": "Stan Seers",
+        "permalink": "/stan-seers/"
+      },
+      {
+        "basename": "South_Australia_717e9f",
+        "title": "Why South Australia's UFO Cases Still Matter",
+        "permalink": "/why-south-australias-ufo-cases-still/"
+      },
+      {
+        "basename": "South_Australia_717e9f_cold_war_test_ranges_bee36b",
+        "title": "Test Ranges",
+        "permalink": "/test-ranges/"
+      },
+      {
+        "basename": "South_Australia_717e9f_cold_war_test_ranges_bee36b_maralinga_1960_secur_1e74dc",
+        "title": "Maralinga Report",
+        "permalink": "/maralinga-report/"
+      },
+      {
+        "basename": "South_Australia_717e9f_cold_war_test_ranges_bee36b_woomera_radar_anomal_9f0375",
+        "title": "Radar Anomalies",
+        "permalink": "/radar-anomalies/"
+      },
+      {
+        "basename": "South_Australia_717e9f_cold_war_test_ranges_bee36b_woomera_radar_sighti_f090bf",
+        "title": "Radar Sightings",
+        "permalink": "/radar-sightings/"
+      },
+      {
+        "basename": "South_Australia_717e9f_kimba_witness_encoun_630ff7",
+        "title": "Kimba Encounter",
+        "permalink": "/kimba-encounter/"
+      },
+      {
+        "basename": "South_Australia_717e9f_kimba_witness_encoun_630ff7_kimba_night_percepti_e7bd84",
+        "title": "Night Perception",
+        "permalink": "/night-perception/"
+      },
+      {
+        "basename": "South_Australia_717e9f_kimba_witness_encoun_630ff7_kimba_witness_accoun_815c93",
+        "title": "Witness Match",
+        "permalink": "/witness-match/"
+      },
+      {
+        "basename": "South_Australia_717e9f_kimba_witness_encoun_630ff7_kimba_witness_invest_55290b",
+        "title": "Police Inquiry",
+        "permalink": "/police-inquiry/"
+      },
+      {
+        "basename": "South_Australia_717e9f_maralinga_light_inqu_4ad7c5",
+        "title": "Maralinga Light",
+        "permalink": "/maralinga-light/"
+      },
+      {
+        "basename": "South_Australia_717e9f_maralinga_light_inqu_4ad7c5_maralinga_natural_ex_ab031f",
+        "title": "Likely Causes",
+        "permalink": "/likely-causes/"
+      },
+      {
+        "basename": "South_Australia_717e9f_maralinga_light_inqu_4ad7c5_maralinga_official_i_5ef408",
+        "title": "Official Inquiry",
+        "permalink": "/official-inquiry/"
+      },
+      {
+        "basename": "South_Australia_717e9f_maralinga_light_inqu_4ad7c5_maralinga_witness_ac_2d6813",
+        "title": "Witnesses",
+        "permalink": "/witnesses-b8ac9c/"
+      },
+      {
+        "basename": "South_Australia_717e9f_official_ufo_archive_b3e914",
+        "title": "Official Files",
+        "permalink": "/official-files-63f852/"
+      },
+      {
+        "basename": "South_Australia_717e9f_official_ufo_archive_b3e914_missing_ufo_file_evi_f81013",
+        "title": "Missing Evidence",
+        "permalink": "/missing-evidence/"
+      },
+      {
+        "basename": "South_Australia_717e9f_official_ufo_archive_b3e914_south_australia_ufo_e0b80e",
+        "title": "Archive Survival",
+        "permalink": "/archive-survival/"
+      },
+      {
+        "basename": "South_Australia_717e9f_official_ufo_archive_b3e914_woomera_official_rep_185f48",
+        "title": "Woomera Files",
+        "permalink": "/woomera-files/"
+      },
+      {
+        "basename": "South_Australia_717e9f_outback_light_explan_9f8b97",
+        "title": "Outback Lights",
+        "permalink": "/outback-lights/"
+      },
+      {
+        "basename": "South_Australia_717e9f_outback_light_explan_9f8b97_lights_chasing_cars_b28d2d",
+        "title": "Chasing Lights",
+        "permalink": "/chasing-lights/"
+      },
+      {
+        "basename": "South_Australia_717e9f_outback_light_explan_9f8b97_meteor_aircraft_plan_8cf110",
+        "title": "Light Checklist",
+        "permalink": "/light-checklist/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "New_South_Wales_f92f26",
+        "title": "Which New South Wales UFO Cases Still Matter?",
+        "permalink": "/which-new-south-wales-ufo-cases-still/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "Northern_Territory_205118",
+        "title": "Why Is the Northern Territory a UFO Hotspot?",
+        "permalink": "/why-is-the-northern-territory-a-ufo/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "Queensland_95a7a7",
+        "title": "What Really Happened in Queensland's UFO Cases?",
+        "permalink": "/what-really-happened-in-queenslands-ufo/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "Tasmania_ef1772",
+        "title": "What Really Happened in Tasmania's UFO Cases?",
+        "permalink": "/what-really-happened-in-tasmanias-ufo/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "title": "Evidence",
+        "permalink": "/evidence/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "South_Australia_717e9f",
+        "title": "Why South Australia's UFO Cases Still Matter",
+        "permalink": "/why-south-australias-ufo-cases-still/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "Victoria_df8cd5",
+        "title": "What Really Happened in Victoria's UFO History?",
+        "permalink": "/what-really-happened-in-victorias-ufo/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "South_Australia_717e9f_maralinga_light_inqu_4ad7c5_maralinga_witness_ac_2d6813",
+        "title": "Witnesses",
+        "permalink": "/witnesses-b8ac9c/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "Victoria_df8cd5_victorian_ufo_explan_9ea2df",
+        "title": "Explanations",
+        "permalink": "/explanations/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba",
+        "title": "What Really Happened in Canberra's UFO Skies?",
+        "permalink": "/australian-capital-territory/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Tasmania_ef1772_cressy_ufo_case_392da1_browning_witness_rel_e86228",
+        "title": "Witnesses",
+        "permalink": "/witnesses-a6fc79/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Western_Australia_1c735d",
+        "title": "What Really Happened in Western Australia's Skies?",
+        "permalink": "/what-really-happened-in-western/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Victoria_df8cd5_westall_sighting_evi_eedf5b",
+        "title": "Westall",
+        "permalink": "/westall/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1_canberra_airport_wit_fc96f1",
+        "title": "Witnesses",
+        "permalink": "/witnesses/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Tasmania_ef1772_tufoic_archive_5acfb1",
+        "title": "TUFOIC",
+        "permalink": "/tufoic/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_ufo_archive_ee5e6a",
+        "title": "National Archives",
+        "permalink": "/national-archives/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "Victoria_df8cd5_raaf_ufo_files_victo_65d16e_raaf_unidentified_ve_fd54c6",
+        "title": "Unidentified",
+        "permalink": "/unidentified/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_satellite_starlink_u_57a27a",
+        "title": "Satellites",
+        "permalink": "/satellites/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "Australian_Capital_T_2949ba_canberra_airport_sig_409db1",
+        "title": "Airport Sighting",
+        "permalink": "/airport-sighting/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Queensland_95a7a7_tully_crop_circle_le_e0f87c_saucer_nest_media_la_771faa",
+        "title": "Saucer Nest",
+        "permalink": "/saucer-nest/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Tasmania_ef1772_valentich_bass_strai_536e2d",
+        "title": "Valentich",
+        "permalink": "/valentich-815f6b/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "title": "Wycliffe Well",
+        "permalink": "/wycliffe-well/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Queensland_95a7a7_north_queensland_196_96ccb7",
+        "title": "1961 Reports",
+        "permalink": "/1961-reports/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "title": "Sea Fury",
+        "permalink": "/sea-fury/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Victoria_df8cd5_valentich_disappeara_d56eab",
+        "title": "Valentich",
+        "permalink": "/valentich/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Queensland_95a7a7_tully_saucer_nest_89923a",
+        "title": "Tully Nest",
+        "permalink": "/tully-nest/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "South_Australia_717e9f_woomera_radar_cases_65eb28",
+        "title": "Woomera Radar",
+        "permalink": "/woomera-radar/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "title": "Gosford",
+        "permalink": "/gosford/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8_pine_gap_public_reco_2f5421",
+        "title": "Public Record",
+        "permalink": "/public-record/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Queensland_95a7a7_official_ufo_investi_485edc",
+        "title": "Official Files",
+        "permalink": "/official-files/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Queensland_95a7a7_queensland_sighting_5c9cbf",
+        "title": "Sky Explanations",
+        "permalink": "/sky-explanations/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Tasmania_ef1772_cressy_ufo_case_392da1",
+        "title": "Cressy",
+        "permalink": "/cressy/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Tasmania_ef1772_kettering_landing_cl_72373a_kettering_witness_re_499b89",
+        "title": "Witness Account",
+        "permalink": "/witness-account/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Tasmania_ef1772_st_helens_car_stop_304c3a",
+        "title": "St Helens",
+        "permalink": "/st-helens/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Western_Australia_1c735d_knowles_nullarbor_ca_ece73c",
+        "title": "Knowles Case",
+        "permalink": "/knowles-case/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Northern_Territory_205118_min_min_lights_ecea73",
+        "title": "Min Min Lights",
+        "permalink": "/min-min-lights/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "South_Australia_717e9f_official_ufo_archive_b3e914",
+        "title": "Official Files",
+        "permalink": "/official-files-63f852/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "Tasmania_ef1772_valentich_bass_strai_536e2d_valentich_disorienta_03dd78",
+        "title": "Disorientation",
+        "permalink": "/disorientation/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "Western_Australia_1c735d_wheatbelt_1969_flap_2f0333_corrigin_flight_path_9690f6",
+        "title": "Flight Path",
+        "permalink": "/flight-path/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "title": "Grafton Wave",
+        "permalink": "/grafton-wave/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "Northern_Territory_205118",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "Queensland_95a7a7",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "South_Australia_717e9f",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "Tasmania_ef1772",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "Victoria_df8cd5",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "Western_Australia_1c735d",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_index",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "to": "New_South_Wales_f92f26",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085_index",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085_night_light_speed_il_358668",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085_nowra_radar_match_22a25f",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085_sea_fury_story_drift_c66d64",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_index",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_chalker_defence_file_c43729",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_index",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_sydney_ufo_club_arch_55985b",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf_brisbane_water_night_b719e6",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_mixed_cause_c286d1",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf_index",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55_index",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "to": "New_South_Wales_f92f26",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_ark_religious_meanin_43f7f1",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_index",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_victorian_flight_con_8d8ad4",
+        "type": "child"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_nowra_radar_match_22a25f",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_nowra_radar_match_22a25f",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085_night_light_speed_il_358668",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_nowra_radar_match_22a25f",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085_sea_fury_story_drift_c66d64",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_nowra_radar_match_22a25f",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_nowra_radar_match_22a25f",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_night_light_speed_il_358668",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_night_light_speed_il_358668",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085_nowra_radar_match_22a25f",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_night_light_speed_il_358668",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085_sea_fury_story_drift_c66d64",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_night_light_speed_il_358668",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_night_light_speed_il_358668",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_sea_fury_story_drift_c66d64",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_sea_fury_story_drift_c66d64",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085_night_light_speed_il_358668",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_sea_fury_story_drift_c66d64",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085_nowra_radar_match_22a25f",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_sea_fury_story_drift_c66d64",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_sea_fury_story_drift_c66d64",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_mixed_cause_c286d1",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_mixed_cause_c286d1",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf_brisbane_water_night_b719e6",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_mixed_cause_c286d1",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_mixed_cause_c286d1",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_mixed_cause_c286d1",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_ark_religious_meanin_43f7f1",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_victorian_flight_con_8d8ad4",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_chalker_defence_file_c43729",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_chalker_defence_file_c43729",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_chalker_defence_file_c43729",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_sydney_ufo_club_arch_55985b",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_chalker_defence_file_c43729",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_chalker_defence_file_c43729",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_chalker_defence_file_c43729",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_sydney_ufo_club_arch_55985b",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_sydney_ufo_club_arch_55985b",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_sydney_ufo_club_arch_55985b",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_chalker_defence_file_c43729",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_sydney_ufo_club_arch_55985b",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_sydney_ufo_club_arch_55985b",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_sydney_ufo_club_arch_55985b",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_brisbane_water_night_b719e6",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_brisbane_water_night_b719e6",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_mixed_cause_c286d1",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_brisbane_water_night_b719e6",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_brisbane_water_night_b719e6",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_brisbane_water_night_b719e6",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf_brisbane_water_night_b719e6",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_mixed_cause_c286d1",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_ark_religious_meanin_43f7f1",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_ark_religious_meanin_43f7f1",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_ark_religious_meanin_43f7f1",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_victorian_flight_con_8d8ad4",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_ark_religious_meanin_43f7f1",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_ark_religious_meanin_43f7f1",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_victorian_flight_con_8d8ad4",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "parent"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_victorian_flight_con_8d8ad4",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_ark_religious_meanin_43f7f1",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_victorian_flight_con_8d8ad4",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "sibling"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_victorian_flight_con_8d8ad4",
+        "to": "New_South_Wales_f92f26",
+        "type": "ancestor"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_victorian_flight_con_8d8ad4",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "ancestor"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Australian_Capital_T_2949ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "New_South_Wales_f92f26",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Queensland_95a7a7",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "South_Australia_717e9f",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Tasmania_ef1772",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Victoria_df8cd5",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Western_Australia_1c735d",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Northern_Territory_205118_index",
+        "type": "child"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Northern_Territory_205118_min_min_lights_ecea73",
+        "type": "child"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Northern_Territory_205118_nt_regional_ufo_case_bb300a",
+        "type": "child"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+        "type": "child"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8",
+        "type": "child"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64",
+        "type": "child"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "type": "child"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118",
+        "type": "parent"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118_nt_regional_ufo_case_bb300a",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118_min_min_lights_ecea73_index",
+        "type": "child"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118_min_min_lights_ecea73_min_min_following_ca_8d728f",
+        "type": "child"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118_min_min_lights_ecea73_min_min_ufo_misident_8efbe9",
+        "type": "child"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118_min_min_lights_ecea73_pettigrew_min_min_te_47f60e",
+        "type": "child"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118",
+        "type": "ancestor"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+        "to": "Northern_Territory_205118",
+        "type": "parent"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+        "to": "Northern_Territory_205118_min_min_lights_ecea73",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+        "to": "Northern_Territory_205118_nt_regional_ufo_case_bb300a",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+        "to": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8",
+        "type": "sibling"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+        "to": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_nowra_radar_match_22a25f",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_nowra_radar_match_22a25f",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_nowra_radar_match_22a25f",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_night_light_speed_il_358668",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_night_light_speed_il_358668",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_night_light_speed_il_358668",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_sea_fury_story_drift_c66d64",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_sea_fury_story_drift_c66d64",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_sea_fury_nowra_be2085_sea_fury_story_drift_c66d64",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_skywatching_cfcabf",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_media_feedba_833241",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_grafton_1966_wave_c7d695_grafton_police_pursu_f5abfc",
+        "to": "New_South_Wales_f92f26_grafton_1966_wave_c7d695",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_mixed_cause_c286d1",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_mixed_cause_c286d1",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_mixed_cause_c286d1",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_chalker_defence_file_c43729",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_chalker_defence_file_c43729",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_gosford_hotspot_repo_ba63d5",
+        "to": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_sydney_ufo_club_arch_55985b",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_civilian_ufo_archive_a2ad13_sydney_ufo_club_arch_55985b",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_brisbane_water_night_b719e6",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_brisbane_water_night_b719e6",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_brisbane_water_night_b719e6",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+        "to": "New_South_Wales_f92f26_gosford_central_coas_7344bf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_gosford_central_coas_7344bf_gosford_police_calls_5a34d1",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_nsw_airfield_ufo_clu_96796a",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+        "to": "New_South_Wales_f92f26_military_aviation_re_d61f55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_sea_fury_sabre_theor_d12a93",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_military_aviation_re_d61f55_williamtown_radar_il_3b0544",
+        "to": "New_South_Wales_f92f26_sea_fury_nowra_be2085",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_ark_religious_meanin_43f7f1",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_victorian_flight_con_8d8ad4",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_victorian_flight_con_8d8ad4",
+        "to": "New_South_Wales_f92f26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_victorian_flight_con_8d8ad4",
+        "to": "New_South_Wales_f92f26_parramatta_flying_ar_b63cb8_flying_ark_evidence_633e0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8_pine_gap_public_reco_2f5421",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_satellite_starlink_u_57a27a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118",
+        "to": "Northern_Territory_205118_min_min_lights_ecea73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_satellite_starlink_u_57a27a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73",
+        "to": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+        "to": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8_pine_gap_public_reco_2f5421",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+        "to": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_satellite_starlink_u_57a27a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+        "to": "Northern_Territory_205118",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+        "to": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8",
+        "to": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8_pine_gap_buried_ufo_597639",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8",
+        "to": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_satellite_starlink_u_57a27a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8",
+        "to": "Northern_Territory_205118",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8",
+        "to": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_regional_ufo_case_bb300a",
+        "to": "Northern_Territory_205118_nt_regional_ufo_case_bb300a_milingimbi_1995_enco_edacab",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_regional_ufo_case_bb300a",
+        "to": "Northern_Territory_205118_nt_regional_ufo_case_bb300a_palmerston_2000_oran_171759",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_regional_ufo_case_bb300a",
+        "to": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8_pine_gap_public_reco_2f5421",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_regional_ufo_case_bb300a",
+        "to": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_satellite_starlink_u_57a27a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_regional_ufo_case_bb300a",
+        "to": "Northern_Territory_205118",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_regional_ufo_case_bb300a",
+        "to": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64",
+        "to": "Northern_Territory_205118",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64",
+        "to": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_satellite_starlink_u_57a27a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64",
+        "to": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "to": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9_wycliffe_sighting_le_4bcf94",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "to": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_satellite_starlink_u_57a27a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "to": "Northern_Territory_205118",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "to": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9_wycliffe_military_uf_fa4f0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73_min_min_following_ca_8d728f",
+        "to": "Northern_Territory_205118",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73_min_min_following_ca_8d728f",
+        "to": "Northern_Territory_205118_min_min_lights_ecea73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73_min_min_ufo_misident_8efbe9",
+        "to": "Northern_Territory_205118",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73_min_min_ufo_misident_8efbe9",
+        "to": "Northern_Territory_205118_min_min_lights_ecea73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73_min_min_ufo_misident_8efbe9",
+        "to": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73_pettigrew_min_min_te_47f60e",
+        "to": "Northern_Territory_205118",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73_pettigrew_min_min_te_47f60e",
+        "to": "Northern_Territory_205118_min_min_lights_ecea73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_min_min_lights_ecea73_pettigrew_min_min_te_47f60e",
+        "to": "Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3_arnhem_land_ufo_repo_1570ed",
+        "to": "Northern_Territory_205118",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3_arnhem_land_ufo_repo_1570ed",
+        "to": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_satellite_starlink_u_57a27a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3_arnhem_land_ufo_repo_1570ed",
+        "to": "Northern_Territory_205118_pine_gap_ufo_claims_da1fe8_pine_gap_public_reco_2f5421",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3_nt_unresolved_ufo_fi_22382c",
+        "to": "Northern_Territory_205118_remote_skies_ufo_rep_4b3d64_satellite_starlink_u_57a27a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3_nt_unresolved_ufo_fi_22382c",
+        "to": "Northern_Territory_205118_nt_ufo_archives_63d9f3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3_nt_unresolved_ufo_fi_22382c",
+        "to": "Northern_Territory_205118",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Northern_Territory_205118_nt_ufo_archives_63d9f3_raaf_darwin_ufo_repo_c80856",
+        "to": "Northern_Territory_205118",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}
