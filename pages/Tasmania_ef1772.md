@@ -27,12 +27,12 @@ description: Tasmania has a surprisingly well-documented UFO history, but it doe
 hero_summary: Tasmania has a surprisingly well-documented UFO history, but it does not amount to proof of extraterrestrial visitation. Its strongest cases are memorable because they combine apparently credible witnesses, detailed testimony and, occasionally, government or specialist investigation.
 layout: default
 permalink: /what-really-happened-in-tasmanias-ufo/
-nav_short_title: What Really Happened in Tasmania's UFO Cases?
+nav_short_title: "Sightings, Files and False Alarms in Tasmania"
 title: "Sightings, Files and False Alarms in Tasmania"
-title_full: What Really Happened in Tasmania's UFO Cases?
-display_title_short: What Really Happened in Tasmania's UFO Cases?
+title_full: "Sightings, Files and False Alarms in Tasmania"
+display_title_short: "Sightings, Files and False Alarms in Tasmania"
 display_title: "Sightings, Files and False Alarms in Tasmania"
-heading_title: What Really Happened in Tasmania's UFO Cases?
+heading_title: "Sightings, Files and False Alarms in Tasmania"
 page_heading_title: "Sightings, Files and False Alarms in Tasmania"
 source_count: 138
 infographic_count: 3

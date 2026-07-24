@@ -27,12 +27,12 @@ description: Queensland has one of Australia’s richest state-level UFO histori
 hero_summary: Queensland has one of Australia’s richest state-level UFO histories, but its importance rests less on proof of extraordinary craft than on the quality and variety of surviving records.
 layout: default
 permalink: /what-really-happened-in-queenslands-ufo/
-nav_short_title: What Really Happened in Queensland's UFO Cases?
+nav_short_title: "Inside the UFO Record of Queensland"
 title: "Inside the UFO Record of Queensland"
-title_full: What Really Happened in Queensland's UFO Cases?
-display_title_short: What Really Happened in Queensland's UFO Cases?
+title_full: "Inside the UFO Record of Queensland"
+display_title_short: "Inside the UFO Record of Queensland"
 display_title: "Inside the UFO Record of Queensland"
-heading_title: What Really Happened in Queensland's UFO Cases?
+heading_title: "Inside the UFO Record of Queensland"
 page_heading_title: "Inside the UFO Record of Queensland"
 source_count: 87
 infographic_count: 3
