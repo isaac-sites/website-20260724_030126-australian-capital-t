@@ -8676,7 +8676,7 @@
       if (pathname.indexOf("/assets/images/") === -1) {
         return false;
       }
-      return /(?:-overview\.(?:svg|png|jpe?g|webp)|-image1\.(?:png|jpe?g|webp)|-Illustration-[123](?:-(?:dark|light))?\.(?:svg|png|jpe?g|webp))$/i.test(pathname);
+      return /(?:-overview\.(?:svg|png|jpe?g|webp)|-image1\.(?:png|jpe?g|webp)|-(?:photo|archive)\d+\.(?:png|jpe?g|webp|gif)|-Illustration-[123](?:-(?:dark|light))?\.(?:svg|png|jpe?g|webp))$/i.test(pathname);
     } catch (err) {
       return false;
     }
