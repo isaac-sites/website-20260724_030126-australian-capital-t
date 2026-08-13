@@ -152,9 +152,14 @@ ui_strings:
   report_actions: Report actions
   sources: sources
   graphics: graphics
+  share_page: Share
   copy_link: Copy link
+  download_social_image: Download image
   cite_page: Cite page
   print_save: Print / save
+  share_opened: Share dialog opened
+  share_unavailable: Sharing unavailable; link copied
+  social_image_downloaded: Image download started
   link_copied: Link copied
   citation_copied: Citation copied
   copy_failed: Copy failed
@@ -177,27 +182,36 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+interactive_map: true
 map_view:
   kind: australian-states
   items: 8
   map: /assets/maps/australia.svg
   data: /assets/maps/australian-states.json
-site_image_description: A night view over the New South Wales coast with a military aircraft, radar station, city lights and several distant luminous...
+header:
+  og_image: /assets/images/Victoria_df8cd5-overview-social.jpg
+  preview_image: /assets/images/Victoria_df8cd5-overview-social.jpg
+image: /assets/images/Victoria_df8cd5-overview-social.jpg
+site_image_description: A bright unidentified object hangs above Canberra Airport as airline staff watch from the control tower, with aircraft, distant...
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="australia" data-map-item-type="state" data-map-label="UFO and UAP Australian states and territories map" data-map-fallback-summary="Open this state or territory file from the map." data-map-src="{{ 'assets/maps/australia.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/australian-states.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="AU-WA" data-map-preview-preload="8">
+<header class="home-map-panel-intro">
 <nav class="interactive-map-region-nav" aria-label="Map regions">
 <button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="central-australia" aria-pressed="false" aria-label="Focus map on Central Australia"><span>Central Australia</span><small>2</small></button>
 <button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="eastern-australia" aria-pressed="false" aria-label="Focus map on Eastern Australia"><span>Eastern Australia</span><small>4</small></button>
 <button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="island-state" aria-pressed="false" aria-label="Focus map on Island State"><span>Island State</span><small>1</small></button>
 <button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="western-australia" aria-pressed="false" aria-label="Focus map on Western Australia"><span>Western Australia</span><small>1</small></button>
 </nav>
+<h1 class="home-map-panel-title">Explore Australian UFO reports</h1>
+<p class="home-map-panel-note">Use the map to explore an Australian state or territory file, or browse the full list.</p>
+</header>
+<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="australia" data-map-item-type="state" data-map-label="UFO and UAP Australian states and territories map" data-map-fallback-summary="Open this state or territory file from the map." data-map-src="{{ 'assets/maps/australia.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/australian-states.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="AU-WA" data-map-preview-preload="8">
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
 <span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
 </div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-<img src="{{ '/assets/images/Western_Australia_1c735d-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<img src="{{ '/assets/images/Western_Australia_1c735d-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <span class="interactive-map-preview-chip uap-world-map-preview-chip">WA</span>
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="western-australia" data-uap-world-map-region-focus="western-australia" aria-label="Focus map on Western Australia">Western Australia</button>
@@ -209,8 +223,7 @@ site_image_description: A night view over the New South Wales coast with a milit
 <span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
 </article>
 </section>
-<p class="home-map-panel-note">Use the map to jump into an Australian state or territory file, or browse the full list below.</p>
 <p class="home-map-panel-source"><a href="https://mapsvg.com/maps/australia" rel="license noopener" target="_blank">Map source (CC0 1.0 Universal)</a></p>
-<p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
+<p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Browse all states and territories</a></p>
 </section>
 

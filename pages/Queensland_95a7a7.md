@@ -27,13 +27,13 @@ description: Queensland has one of Australia’s richest state-level UFO histori
 hero_summary: Queensland has one of Australia’s richest state-level UFO histories, but its importance rests less on proof of extraordinary craft than on the quality and variety of surviving records.
 layout: default
 permalink: /what-really-happened-in-queenslands-ufo/
-nav_short_title: "Inside the UFO Record of Queensland"
-title: "Inside the UFO Record of Queensland"
-title_full: "Inside the UFO Record of Queensland"
-display_title_short: "Inside the UFO Record of Queensland"
-display_title: "Inside the UFO Record of Queensland"
-heading_title: "Inside the UFO Record of Queensland"
-page_heading_title: "Inside the UFO Record of Queensland"
+nav_short_title: What Really Happened in Queensland's UFO Cases?
+title: What Really Happened in Queensland's UFO Cases?
+title_full: What Really Happened in Queensland's UFO Cases?
+display_title_short: What Really Happened in Queensland's UFO Cases?
+display_title: What Really Happened in Queensland's UFO Cases?
+heading_title: What Really Happened in Queensland's UFO Cases?
+page_heading_title: What Really Happened in Queensland's UFO Cases?
 source_count: 87
 infographic_count: 3
 page_website_name: Queensland
@@ -365,7 +365,7 @@ The significance of the 1961 cluster lies in the official chain of reporting rat
 
 
 
-<figure class="archive-evidence-panel"><div class="archive-evidence-kicker">Original document</div><img src="{{ "/assets/images/Queensland_95a7a7-photo1.webp" | relative_url }}" alt="Reports on Flying Saucers and other Aerial Objects in Australia, A703, 580-1-1, part 6 Untitled" loading="lazy" decoding="async"><figcaption><strong>Reports on Flying Saucers and other Aerial Objects in Australia, A703, 580-1-1, part 6</strong><span class="archive-evidence-meta">Australian government &middot; Wikimedia Commons &middot; 1966 &middot; 128117221</span><span class="archive-evidence-explanation">This is an Australian government UFO‑reports file (A703 series) from the correct era and region; it directly represents the type of primary documentation the article discusses and adds clear reader value without implying any specific case image.</span><span class="archive-evidence-rights">Public domain &middot;<a class="archive-evidence-source" href="https://commons.wikimedia.org/wiki/File:Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia,_A703,_580-1-1,_part_6.pdf" target="_blank" rel="noopener noreferrer">View original record</a></span></figcaption></figure>
+<figure class="archive-evidence-panel"><div class="archive-evidence-kicker">Original document</div><a class="archive-evidence-image-link" href="https://commons.wikimedia.org/wiki/File:Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia,_A703,_580-1-1,_part_6.pdf" target="_blank" rel="noopener noreferrer"><img src="{{ "/assets/images/Queensland_95a7a7-photo1.webp" | relative_url }}" alt="Reports on Flying Saucers and other Aerial Objects in Australia, A703, 580-1-1, part 6 Untitled" loading="lazy" decoding="async"></a><figcaption><strong>Reports on Flying Saucers and other Aerial Objects in Australia, A703, 580-1-1, part 6</strong><span class="archive-evidence-meta">Australian government &middot; Wikimedia Commons &middot; 1966 &middot; 128117221</span><span class="archive-evidence-explanation">This is an Australian government UFO‑reports file (A703 series) from the correct era and region; it directly represents the type of primary documentation the article discusses and adds clear reader value without implying any specific case image.</span><span class="archive-evidence-rights">Public domain &middot;<a class="archive-evidence-source" href="https://commons.wikimedia.org/wiki/File:Reports_on_Flying_Saucers_and_other_Aerial_Objects_in_Australia,_A703,_580-1-1,_part_6.pdf" target="_blank" rel="noopener noreferrer">View original record</a></span></figcaption></figure>
 
 ## The 1965 flap and alleged landing traces
 

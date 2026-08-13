@@ -426,7 +426,9 @@ For Northern Territory UFO history, the important distinction is not simply betw
 
 <img src="{{ "/assets/images/Northern_Territory_205118_min_min_lights_ecea73-Illustration-3-dark.svg" | relative_url }}" alt="Min Min Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Northern_Territory_205118_min_min_lights_ecea73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Northern_Territory_205118_min_min_lights_ecea73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The strongest conclusion supported by Min Min Lights
+## The most defensible conclusion
+
+
 <div class="content-callout content-callout--key content-callout--takeaway" markdown="1">
 
 Atmospheric refraction offers a convincing explanation for a substantial class of Min Min and UFO-like lights seen from outback roads. It has the right physical conditions, can carry ordinary lights over the horizon and has reproduced central features of the reports in the field. Sparse scenery and night-time perception then amplify the illusion, particularly the sense that a light is hovering or following a moving car.

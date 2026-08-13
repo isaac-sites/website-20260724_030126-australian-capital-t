@@ -27,13 +27,13 @@ description: 'Victoria occupies a central place in Australian UFO history becaus
 hero_summary: 'Victoria occupies a central place in Australian UFO history because it contains two of the country’s most enduring cases: the daylight mass sighting at Westall in 1966 and the disappearance of pilot Frederick Valentich over Bass Strait in 1978.'
 layout: default
 permalink: /what-really-happened-in-victorias-ufo/
-nav_short_title: "Sightings, Files and False Alarms in Victoria"
-title: "Sightings, Files and False Alarms in Victoria"
-title_full: "Sightings, Files and False Alarms in Victoria"
-display_title_short: "Sightings, Files and False Alarms in Victoria"
-display_title: "Sightings, Files and False Alarms in Victoria"
-heading_title: "Sightings, Files and False Alarms in Victoria"
-page_heading_title: "Sightings, Files and False Alarms in Victoria"
+nav_short_title: What Really Happened in Victoria's UFO History?
+title: What Really Happened in Victoria's UFO History?
+title_full: What Really Happened in Victoria's UFO History?
+display_title_short: What Really Happened in Victoria's UFO History?
+display_title: What Really Happened in Victoria's UFO History?
+heading_title: What Really Happened in Victoria's UFO History?
+page_heading_title: What Really Happened in Victoria's UFO History?
 source_count: 65
 infographic_count: 3
 page_website_name: Victoria

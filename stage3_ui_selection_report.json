@@ -1,5 +1,5 @@
 {
-  "selection_strategy": "legacy-resolvers",
+  "selection_strategy": "shared-scorer",
   "ui_priority": "home-first",
   "site_shape": {
     "report_count": 200,
@@ -36,27 +36,93 @@
     "long_title_branch_count": 0,
     "single_root_tree": false,
     "topic_labels": [
+      "What Really Happened in Canberra's UFO Skies?",
       "Which New South Wales UFO Cases Still Matter?",
       "Why Is the Northern Territory a UFO Hotspot?",
       "What Really Happened in Queensland's UFO Cases?",
-      "What Really Happened in Victoria's UFO History?",
-      "What Really Happened in Western Australia's Skies?",
-      "What Really Happened in Canberra's UFO Skies?",
       "Why South Australia's UFO Cases Still Matter",
-      "What Really Happened in Tasmania's UFO Cases?"
+      "What Really Happened in Tasmania's UFO Cases?",
+      "What Really Happened in Victoria's UFO History?",
+      "What Really Happened in Western Australia's Skies?"
     ]
   },
   "selected": {
     "site_visual_identity": "signal-cobalt",
     "site_visual_identity_source": "remote_model",
     "site_visual_identity_confidence": "high",
-    "visual_profile": "atlas",
-    "layout_archetype": "atlas",
+    "visual_profile": "compact",
+    "layout_archetype": "dossier",
     "home_layout_mode": "vertical",
     "auto_home_layout_mode": "catalog",
     "hierarchy_viz_mode": "cluster-diagram",
     "palette": "signal-cobalt",
     "motif": "horizon"
   },
-  "candidates": []
+  "candidates": [
+    {
+      "profile": "atlas",
+      "layout": "dossier",
+      "home_score": 32,
+      "article_score": 36,
+      "interaction_score": 16,
+      "score": 3000,
+      "reasons": [
+        "dossier improves dense article branches",
+        "atlas+dossier fits clustered overview"
+      ]
+    },
+    {
+      "profile": "compact",
+      "layout": "compact-grid",
+      "home_score": 40,
+      "article_score": 18,
+      "interaction_score": 13,
+      "score": 2800,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "compact-grid handles dense trees"
+      ]
+    },
+    {
+      "profile": "compact",
+      "layout": "atlas",
+      "home_score": 40,
+      "article_score": 12,
+      "interaction_score": 13,
+      "score": 2620,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "compact+atlas fits clustered overview"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "atlas",
+      "home_score": 22,
+      "article_score": 18,
+      "interaction_score": 16,
+      "score": 1960,
+      "reasons": []
+    },
+    {
+      "profile": "editorial",
+      "layout": "dossier",
+      "home_score": 12,
+      "article_score": 34,
+      "interaction_score": 14,
+      "score": 1900,
+      "reasons": [
+        "dossier improves dense article branches"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "magazine",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    }
+  ]
 }

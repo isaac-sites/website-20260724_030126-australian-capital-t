@@ -27,13 +27,13 @@ description: Tasmania has a surprisingly well-documented UFO history, but it doe
 hero_summary: Tasmania has a surprisingly well-documented UFO history, but it does not amount to proof of extraterrestrial visitation. Its strongest cases are memorable because they combine apparently credible witnesses, detailed testimony and, occasionally, government or specialist investigation.
 layout: default
 permalink: /what-really-happened-in-tasmanias-ufo/
-nav_short_title: "Sightings, Files and False Alarms in Tasmania"
-title: "Sightings, Files and False Alarms in Tasmania"
-title_full: "Sightings, Files and False Alarms in Tasmania"
-display_title_short: "Sightings, Files and False Alarms in Tasmania"
-display_title: "Sightings, Files and False Alarms in Tasmania"
-heading_title: "Sightings, Files and False Alarms in Tasmania"
-page_heading_title: "Sightings, Files and False Alarms in Tasmania"
+nav_short_title: What Really Happened in Tasmania's UFO Cases?
+title: What Really Happened in Tasmania's UFO Cases?
+title_full: What Really Happened in Tasmania's UFO Cases?
+display_title_short: What Really Happened in Tasmania's UFO Cases?
+display_title: What Really Happened in Tasmania's UFO Cases?
+heading_title: What Really Happened in Tasmania's UFO Cases?
+page_heading_title: What Really Happened in Tasmania's UFO Cases?
 source_count: 138
 infographic_count: 3
 page_website_name: Tasmania UFO Files
@@ -391,7 +391,7 @@ The case remains unresolved because the wreckage and flight data were never reco
 
 
 
-<figure class="archive-evidence-panel"><div class="archive-evidence-kicker">Person</div><img src="{{ "/assets/images/Tasmania_ef1772-photo1.webp" | relative_url }}" alt="Valentich disappearance Untitled" loading="lazy" decoding="async"><figcaption><strong>Valentich disappearance</strong><span class="archive-evidence-meta">Bass-Strasse.png : The original uploader was Ulfl at German Wikipedia . derivative work: TVJunkie &middot; This file was derived from: Bass-Strasse.png : &middot; 2012-10-02 15:16 &middot; 21873687</span><span class="archive-evidence-explanation">The Valentich disappearance is explicitly cited as one of Tasmania’s best‑known UFO‑related incidents; this image is a primary case document and directly relevant to a major subject of the article.</span><span class="archive-evidence-rights">Public domain &middot;<a class="archive-evidence-source" href="https://commons.wikimedia.org/wiki/File:Valentich_disappearance.png" target="_blank" rel="noopener noreferrer">View original record</a></span></figcaption></figure>
+<figure class="archive-evidence-panel"><div class="archive-evidence-kicker">Person</div><a class="archive-evidence-image-link" href="https://commons.wikimedia.org/wiki/File:Valentich_disappearance.png" target="_blank" rel="noopener noreferrer"><img src="{{ "/assets/images/Tasmania_ef1772-photo1.webp" | relative_url }}" alt="Valentich disappearance Untitled" loading="lazy" decoding="async"></a><figcaption><strong>Valentich disappearance</strong><span class="archive-evidence-meta">Bass-Strasse.png : The original uploader was Ulfl at German Wikipedia . derivative work: TVJunkie &middot; This file was derived from: Bass-Strasse.png : &middot; 2012-10-02 15:16 &middot; 21873687</span><span class="archive-evidence-explanation">The Valentich disappearance is explicitly cited as one of Tasmania’s best‑known UFO‑related incidents; this image is a primary case document and directly relevant to a major subject of the article.</span><span class="archive-evidence-rights">Public domain &middot;<a class="archive-evidence-source" href="https://commons.wikimedia.org/wiki/File:Valentich_disappearance.png" target="_blank" rel="noopener noreferrer">View original record</a></span></figcaption></figure>
 
 ## What official investigations did — and did not — establish
 

@@ -422,7 +422,8 @@ The police report did not disappear into local files. Research by Australian UFO
 
 That administrative history is relevant because it demonstrates that the original police documentation remained close to the event chronologically and entered official archives before decades of retelling could reshape the story. Although the investigation did not resolve what the witnesses had seen, it preserved an early evidential record that researchers can still compare with later accounts.
 
-## Where the record leaves Police Inquiry
+## Overall assessment
+
 The Kimba investigation protected witness independence better than many comparable UFO reports from the same period, but it did not preserve it perfectly.
 
 Its strengths include the immediate police response, prompt recording of the principal witnesses' statements, a contemporaneous site inspection and later efforts to identify other motorists rather than relying on a single account. These features reduce—but do not eliminate—the possibility that the core narrative developed entirely through hindsight or folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2013/06/kimba-south-australia-very-intriguing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">UFOs Scientific Research Unidentified Anomalous Phenomena</span><span class="citation-popover-snippet">UFOs Scientific ResearchUnidentified Anomalous Phenomena - scientific research: Kimba, South Australia - a very intriguing caseJune 4, 2013...</span><span class="citation-popover-meta">Published: June 4, 2013</span></span></span>
