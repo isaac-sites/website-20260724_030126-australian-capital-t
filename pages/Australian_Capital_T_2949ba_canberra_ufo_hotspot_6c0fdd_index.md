@@ -4,7 +4,7 @@ title_full: Hotspot Question Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /australian-capital-t-2949ba-canberra/
+permalink: /australian-capital-t-2949ba-canberra-6c0fdd/
 description: Focused pages that expand on Hotspot Question.
 date: '2026'
 layout: default

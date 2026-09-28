@@ -4,7 +4,7 @@ title_full: National Archives Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /australian-capital-t-2949ba-canberra/
+permalink: /australian-capital-t-2949ba-canberra-ee5e6a/
 description: Focused pages that expand on National Archives.
 date: '2026'
 layout: default

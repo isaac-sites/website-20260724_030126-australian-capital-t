@@ -4,7 +4,7 @@ title_full: Witness Reliability Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /australian-capital-t-2949ba-canberra/
+permalink: /australian-capital-t-2949ba-canberra-00cf1a/
 description: Focused pages that expand on Witness Reliability.
 date: '2026'
 layout: default
