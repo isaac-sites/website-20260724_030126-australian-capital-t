@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /tasmania-ef1772-cressy-ufo-case-392da1/
 description: Focused pages that expand on Cressy.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Tasmania_ef1772_cressy_ufo_case_392da1
 parent_title: Cressy | What Really Happened in Tasmania's UFO...

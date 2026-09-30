@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /victoria-df8cd5-westall-sighting-evi/
 description: Focused pages that expand on Westall.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Victoria_df8cd5_westall_sighting_evi_eedf5b
 parent_title: Westall | What Really Happened in Victoria's UFO...

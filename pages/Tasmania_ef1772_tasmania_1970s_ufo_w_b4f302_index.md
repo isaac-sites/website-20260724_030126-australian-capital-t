@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /tasmania-ef1772-tasmania-1970s-ufo-w/
 description: Focused pages that expand on 1970 s Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Tasmania_ef1772_tasmania_1970s_ufo_w_b4f302
 parent_title: 1970 s Wave | What Really Happened in Tasmania's UFO...

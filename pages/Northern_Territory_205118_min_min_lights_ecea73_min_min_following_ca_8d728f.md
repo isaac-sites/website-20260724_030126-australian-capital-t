@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 15:37:17'
+last_modified_at: '2026-07-23 15:37:17'
 parent_title: Why Do Outback Lights Seem to Follow Cars? | Northern Territory UFOs
 parent_permalink: /min-min-lights/
 parent_nav_short_title: Min Min Lights

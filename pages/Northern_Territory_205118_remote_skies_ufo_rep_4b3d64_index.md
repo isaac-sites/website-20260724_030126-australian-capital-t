@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /northern-territory-205118-remote-skies/
 description: Focused pages that expand on Remote Skies.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Northern_Territory_205118_remote_skies_ufo_rep_4b3d64
 parent_title: Remote Skies | Why Is the Northern Territory a UFO Hotspot?

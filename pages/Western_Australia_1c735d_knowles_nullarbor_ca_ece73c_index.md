@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /western-australia-1c735d-knowles/
 description: Focused pages that expand on Knowles Case.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Western_Australia_1c735d_knowles_nullarbor_ca_ece73c
 parent_title: Knowles Case | What Really Happened in Western Australia's...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /western-australia-1c735d-nullarbor/
 description: Focused pages that expand on Mirage Theory.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Western_Australia_1c735d_nullarbor_mirage_the_33a81e
 parent_title: Mirage Theory | What Really Happened in Western Australia's...

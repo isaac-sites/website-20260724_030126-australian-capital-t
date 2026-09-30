@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-south-wales-f92f26-civilian-ufo/
 description: Focused pages that expand on UFO Archives.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_South_Wales_f92f26_civilian_ufo_archive_a2ad13
 parent_title: UFO Archives | Which New South Wales UFO Cases Still...

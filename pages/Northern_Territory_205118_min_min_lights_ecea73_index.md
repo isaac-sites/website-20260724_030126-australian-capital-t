@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /northern-territory-205118-min-min/
 description: Focused pages that expand on Min Min Lights.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Northern_Territory_205118_min_min_lights_ecea73
 parent_title: Min Min Lights | Why Is the Northern Territory a UFO Hotspot?

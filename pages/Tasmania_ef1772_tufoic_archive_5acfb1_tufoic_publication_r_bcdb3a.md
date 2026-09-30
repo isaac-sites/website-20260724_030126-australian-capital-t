@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 20:49:30'
+last_modified_at: '2026-07-23 20:49:30'
 parent_title: How TUFOIC Shaped Tasmania's UFO History | Tasmania UFO Files
 parent_permalink: /tufoic/
 parent_nav_short_title: TUFOIC

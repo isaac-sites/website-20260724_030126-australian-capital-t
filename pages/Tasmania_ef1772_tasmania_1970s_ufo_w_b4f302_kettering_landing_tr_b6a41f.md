@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 19:48:47'
+last_modified_at: '2026-07-23 19:48:47'
 parent_title: Why Tasmania's UFO Reports Surged in the 1970 s | What Really Happened in Tasmania's UFO...
 parent_permalink: /1970-s-wave/
 parent_nav_short_title: 1970 s Wave

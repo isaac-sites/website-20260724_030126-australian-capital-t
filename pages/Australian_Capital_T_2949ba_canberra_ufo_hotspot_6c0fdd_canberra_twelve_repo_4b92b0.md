@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 12:48:10'
+last_modified_at: '2026-07-23 12:48:10'
 parent_title: Was Canberra Ever Truly a UFO Hotspot? | Canberra UFO Files
 parent_permalink: /hotspot-question/
 parent_nav_short_title: Hotspot Question

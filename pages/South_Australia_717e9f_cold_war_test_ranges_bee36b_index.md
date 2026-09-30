@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-australia-717e9f-cold-war-test/
 description: Focused pages that expand on Test Ranges.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: South_Australia_717e9f_cold_war_test_ranges_bee36b
 parent_title: Test Ranges | Why South Australia's UFO Cases Still Matter
