@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-australia-717e9f-woomera-radar/
 description: Focused pages that expand on Woomera Radar.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: South_Australia_717e9f_woomera_radar_cases_65eb28
 parent_title: Woomera Radar | Why South Australia's UFO Cases Still Matter

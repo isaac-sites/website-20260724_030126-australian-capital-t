@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /northern-territory-205118-wycliffe/
 description: Focused pages that expand on Wycliffe Well.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Northern_Territory_205118_wycliffe_well_hotspo_e4c7c9
 parent_title: Wycliffe Well | Why Is the Northern Territory a UFO Hotspot?

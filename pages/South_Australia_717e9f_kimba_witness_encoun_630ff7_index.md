@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-australia-717e9f-kimba-witness/
 description: Focused pages that expand on Kimba Encounter.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: South_Australia_717e9f_kimba_witness_encoun_630ff7
 parent_title: Kimba Encounter | Why South Australia's UFO Cases Still Matter

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /queensland-95a7a7-official-ufo-investi/
 description: Focused pages that expand on Official Files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Queensland_95a7a7_official_ufo_investi_485edc
 parent_title: Official Files | What Really Happened in Queensland's UFO...

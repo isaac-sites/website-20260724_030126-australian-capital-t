@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 18:06:03'
+last_modified_at: '2026-07-23 18:06:03'
 parent_title: Did Woomera Radar Track Something Extraordinary? | South Australia UFOs
 parent_permalink: /woomera-radar/
 parent_nav_short_title: Woomera Radar

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /western-australia-1c735d-wa-ufo-media/
 description: Focused pages that expand on Media Effect.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Western_Australia_1c735d_wa_ufo_media_effect_9fb82e
 parent_title: Media Effect | What Really Happened in Western Australia's...

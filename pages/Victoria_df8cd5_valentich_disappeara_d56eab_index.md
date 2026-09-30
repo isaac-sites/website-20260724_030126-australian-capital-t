@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /victoria-df8cd5-valentich-disappeara/
 description: Focused pages that expand on Valentich.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Victoria_df8cd5_valentich_disappeara_d56eab
 parent_title: Valentich | What Really Happened in Victoria's UFO...

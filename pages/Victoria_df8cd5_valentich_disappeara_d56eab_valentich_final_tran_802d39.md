@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 21:22:11'
+last_modified_at: '2026-07-23 21:22:11'
 parent_title: Did a UFO Cause Valentich's Disappearance? | Victoria UFOs
 parent_permalink: /valentich/
 parent_nav_short_title: Valentich
