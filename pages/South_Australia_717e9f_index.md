@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-australia-717e9f-index/
 description: Focused pages that expand on Why South Australia's UFO Cases Still Matter.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: South_Australia_717e9f
 parent_title: Why South Australia's UFO Cases Still Matter

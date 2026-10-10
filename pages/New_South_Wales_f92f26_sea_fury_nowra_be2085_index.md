@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-south-wales-f92f26-sea-fury-nowra/
 description: Focused pages that expand on Sea Fury.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_South_Wales_f92f26_sea_fury_nowra_be2085
 parent_title: Sea Fury | Which New South Wales UFO Cases Still...

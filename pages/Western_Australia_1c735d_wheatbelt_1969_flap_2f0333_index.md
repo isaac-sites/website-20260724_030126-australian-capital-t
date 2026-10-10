@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /western-australia-1c735d-wheatbelt/
 description: Focused pages that expand on 1969 Flap.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Western_Australia_1c735d_wheatbelt_1969_flap_2f0333
 parent_title: 1969 Flap | What Really Happened in Western Australia's...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-south-wales-f92f26-gosford-central/
 description: Focused pages that expand on Gosford.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_South_Wales_f92f26_gosford_central_coas_7344bf
 parent_title: Gosford | Which New South Wales UFO Cases Still...

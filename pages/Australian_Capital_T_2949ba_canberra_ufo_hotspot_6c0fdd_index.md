@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /australian-capital-t-2949ba-canberra-6c0fdd/
 description: Focused pages that expand on Hotspot Question.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Australian_Capital_T_2949ba_canberra_ufo_hotspot_6c0fdd
 parent_title: Hotspot Question | Australian Capital Territory

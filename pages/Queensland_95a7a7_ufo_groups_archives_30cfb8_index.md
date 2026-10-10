@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /queensland-95a7a7-ufo-groups-archives/
 description: Focused pages that expand on Groups and Archives.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Queensland_95a7a7_ufo_groups_archives_30cfb8
 parent_title: Groups and Archives | What Really Happened in Queensland's UFO...

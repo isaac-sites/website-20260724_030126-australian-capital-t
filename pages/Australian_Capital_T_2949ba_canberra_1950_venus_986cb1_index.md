@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /australian-capital-t-2949ba-canberra/
 description: Focused pages that expand on 1950 Venus Case.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Australian_Capital_T_2949ba_canberra_1950_venus_986cb1
 parent_title: 1950 Venus Case | Australian Capital Territory

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /western-australia-1c735d-wa-police-ufo/
 description: Focused pages that expand on Police Files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Western_Australia_1c735d_wa_police_ufo_files_949654
 parent_title: Police Files | What Really Happened in Western Australia's...

@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 17:38:30'
+last_modified_at: '2026-07-23 17:38:30'
 parent_title: How Tully Helped Create the Crop Circle Myth | Queensland
 parent_permalink: /cultural-legacy/
 parent_nav_short_title: Cultural Legacy

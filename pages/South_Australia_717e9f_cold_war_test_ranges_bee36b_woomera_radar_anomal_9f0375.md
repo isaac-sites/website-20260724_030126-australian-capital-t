@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-24 00:47:14'
+last_modified_at: '2026-07-24 00:47:14'
 parent_title: How Cold War Secrecy Shaped UFO Reports | Why South Australia's UFO Cases Still Matter
 parent_permalink: /test-ranges/
 parent_nav_short_title: Test Ranges

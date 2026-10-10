@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 18:06:04'
+last_modified_at: '2026-07-23 18:06:04'
 parent_title: What Did Officials See Near Maralinga? | Why South Australia's UFO Cases Still Matter
 parent_permalink: /maralinga-light/
 parent_nav_short_title: Maralinga Light

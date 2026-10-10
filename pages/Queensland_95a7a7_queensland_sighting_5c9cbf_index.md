@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /queensland-95a7a7-queensland-sighting/
 description: Focused pages that expand on Sky Explanations.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Queensland_95a7a7_queensland_sighting_5c9cbf
 parent_title: Sky Explanations | What Really Happened in Queensland's UFO...

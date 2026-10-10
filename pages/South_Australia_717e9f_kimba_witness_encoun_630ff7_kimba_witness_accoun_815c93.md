@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-24 00:52:44'
+last_modified_at: '2026-07-24 00:52:44'
 parent_title: Why the Kimba Witnesses Still Intrigue Investigators | Why South Australia's UFO Cases Still Matter
 parent_permalink: /kimba-encounter/
 parent_nav_short_title: Kimba Encounter

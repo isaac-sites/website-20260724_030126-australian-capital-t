@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-australia-717e9f-maralinga-light/
 description: Focused pages that expand on Maralinga Light.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: South_Australia_717e9f_maralinga_light_inqu_4ad7c5
 parent_title: Maralinga Light | Why South Australia's UFO Cases Still Matter

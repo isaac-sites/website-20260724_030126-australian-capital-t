@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /northern-territory-205118-index/
 description: Focused pages that expand on Why Is the Northern Territory a UFO Hotspot?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Northern_Territory_205118
 parent_title: Why Is the Northern Territory a UFO Hotspot?

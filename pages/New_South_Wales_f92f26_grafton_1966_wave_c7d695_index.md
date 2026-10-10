@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-south-wales-f92f26-grafton-1966/
 description: Focused pages that expand on Grafton Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_South_Wales_f92f26_grafton_1966_wave_c7d695
 parent_title: Grafton Wave | Which New South Wales UFO Cases Still...

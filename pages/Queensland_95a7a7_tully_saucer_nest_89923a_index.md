@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /queensland-95a7a7-tully-saucer-nest/
 description: Focused pages that expand on Tully Nest.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Queensland_95a7a7_tully_saucer_nest_89923a
 parent_title: Tully Nest | What Really Happened in Queensland's UFO...

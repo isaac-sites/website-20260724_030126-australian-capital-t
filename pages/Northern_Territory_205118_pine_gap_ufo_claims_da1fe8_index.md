@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /northern-territory-205118-pine-gap-ufo/
 description: Focused pages that expand on Pine Gap.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Northern_Territory_205118_pine_gap_ufo_claims_da1fe8
 parent_title: Pine Gap | Why Is the Northern Territory a UFO Hotspot?

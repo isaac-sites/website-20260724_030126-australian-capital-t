@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-australia-717e9f-official-ufo/
 description: Focused pages that expand on Official Files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: South_Australia_717e9f_official_ufo_archive_b3e914
 parent_title: Official Files | Why South Australia's UFO Cases Still Matter

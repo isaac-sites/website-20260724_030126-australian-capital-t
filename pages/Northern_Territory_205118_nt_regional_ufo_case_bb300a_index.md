@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /northern-territory-205118-nt-regional/
 description: Focused pages that expand on Regional Cases.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Northern_Territory_205118_nt_regional_ufo_case_bb300a
 parent_title: Regional Cases | Why Is the Northern Territory a UFO Hotspot?

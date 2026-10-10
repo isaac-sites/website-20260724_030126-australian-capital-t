@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /tasmania-ef1772-tufoic-archive-5acfb1/
 description: Focused pages that expand on TUFOIC.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Tasmania_ef1772_tufoic_archive_5acfb1
 parent_title: TUFOIC | What Really Happened in Tasmania's UFO...

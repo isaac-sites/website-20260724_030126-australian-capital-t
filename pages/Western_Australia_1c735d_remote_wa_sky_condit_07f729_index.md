@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /western-australia-1c735d-remote-wa-sky/
 description: Focused pages that expand on Remote Skies.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Western_Australia_1c735d_remote_wa_sky_condit_07f729
 parent_title: Remote Skies | What Really Happened in Western Australia's...

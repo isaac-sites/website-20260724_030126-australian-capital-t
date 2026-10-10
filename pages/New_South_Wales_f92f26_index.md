@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-south-wales-f92f26-index/
 description: Focused pages that expand on Which New South Wales UFO Cases Still....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_South_Wales_f92f26
 parent_title: Which New South Wales UFO Cases Still...

@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 16:31:42'
+last_modified_at: '2026-07-23 16:31:42'
 parent_title: Did a Flying Saucer Land at Tully? | What Really Happened in Queensland's UFO...
 parent_permalink: /tully-nest/
 parent_nav_short_title: Tully Nest

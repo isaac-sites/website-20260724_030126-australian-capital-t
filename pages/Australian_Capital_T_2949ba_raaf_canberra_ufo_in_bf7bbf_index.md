@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /australian-capital-t-2949ba-raaf/
 description: Focused pages that expand on RAAF Inquiries.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Australian_Capital_T_2949ba_raaf_canberra_ufo_in_bf7bbf
 parent_title: RAAF Inquiries | Australian Capital Territory
