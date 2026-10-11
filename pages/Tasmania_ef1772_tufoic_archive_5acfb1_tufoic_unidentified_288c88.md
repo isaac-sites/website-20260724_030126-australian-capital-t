@@ -855,7 +855,7 @@ Viewed this way, TUFOIC's archive remains one of the most valuable resources for
 
 8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AC 26.2024 | National ArchivesMay 9, 2024 — AC 26.2024 Date: May 09, 2024 Memorandum to Federal Records Management Contacts: Guidance on...</p></details>
    Published: May 9, 2024  
 
