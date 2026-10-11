@@ -1,11 +1,11 @@
 ---
-title: UFO Archives Sub-Topic Index
-title_full: UFO Archives Sub-Topic Index
+title: "New South Wales UFO Archives Sub-Topic Index"
+title_full: "New South Wales UFO Archives Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-south-wales-f92f26-civilian-ufo/
-description: Focused pages that expand on UFO Archives.
+description: "Focused pages that expand on UFO Archives - New South Wales."
 date: '2026'
 last_modified_at: '2026'
 layout: default

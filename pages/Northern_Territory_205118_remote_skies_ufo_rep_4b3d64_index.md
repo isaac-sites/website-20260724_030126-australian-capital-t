@@ -1,11 +1,11 @@
 ---
-title: Remote Skies Sub-Topic Index
-title_full: Remote Skies Sub-Topic Index
+title: "Northern Territory Remote Skies Sub-Topic Index"
+title_full: "Northern Territory Remote Skies Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /northern-territory-205118-remote-skies/
-description: Focused pages that expand on Remote Skies.
+description: "Focused pages that expand on Remote Skies - Northern Territory."
 date: '2026'
 last_modified_at: '2026'
 layout: default
