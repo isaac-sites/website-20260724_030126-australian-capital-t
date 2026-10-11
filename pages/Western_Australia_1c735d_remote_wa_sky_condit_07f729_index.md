@@ -1,11 +1,11 @@
 ---
-title: Remote Skies Sub-Topic Index
-title_full: Remote Skies Sub-Topic Index
+title: "Western Australia Remote Skies Sub-Topic Index"
+title_full: "Western Australia Remote Skies Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /western-australia-1c735d-remote-wa-sky/
-description: Focused pages that expand on Remote Skies.
+description: "Focused pages that expand on Remote Skies - Western Australia."
 date: '2026'
 last_modified_at: '2026'
 layout: default

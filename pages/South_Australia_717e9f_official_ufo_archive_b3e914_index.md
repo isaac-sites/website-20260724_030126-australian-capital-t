@@ -1,11 +1,11 @@
 ---
-title: Official Files Sub-Topic Index
-title_full: Official Files Sub-Topic Index
+title: "South Australia Official Files Sub-Topic Index"
+title_full: "South Australia Official Files Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /south-australia-717e9f-official-ufo/
-description: Focused pages that expand on Official Files.
+description: "Focused pages that expand on Official Files - South Australia."
 date: '2026'
 last_modified_at: '2026'
 layout: default
