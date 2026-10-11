@@ -784,7 +784,7 @@ Within the broader history of UFO reports in the Australian Capital Territory, t
 7.<a id="endnote-7"></a>
    Source: link.springer.com  
    Title: Link From Radar to Radio Astronomy | Springer Nature Link  
-   Link:<a href="https://link.springer.com/chapter/10.1007/978-3-319-91843" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-319-91843</a>  
+   Link:https://link.springer.com/chapter/10.1007/978-3-319-91843  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>1.36 (left) Sir Mark Oliphant (Australian National University) was the driving force behind Mount Stromlo’s attempts to develop a Departm...</p></details>
 
 8.<a id="endnote-8"></a>
